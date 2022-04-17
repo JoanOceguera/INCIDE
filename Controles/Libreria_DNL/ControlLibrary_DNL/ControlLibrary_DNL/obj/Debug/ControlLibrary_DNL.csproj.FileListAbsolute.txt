@@ -1,0 +1,7 @@
+D:\Controlador de versiones\Sistemas\INCIDE\Controles\Libreria_DNL\ControlLibrary_DNL\ControlLibrary_DNL\bin\Debug\ControlLibrary_DNL.dll
+D:\Controlador de versiones\Sistemas\INCIDE\Controles\Libreria_DNL\ControlLibrary_DNL\ControlLibrary_DNL\bin\Debug\ControlLibrary_DNL.pdb
+D:\Controlador de versiones\Sistemas\INCIDE\Controles\Libreria_DNL\ControlLibrary_DNL\ControlLibrary_DNL\obj\Debug\ControlLibrary_DNL.User_Control_DNL.resources
+D:\Controlador de versiones\Sistemas\INCIDE\Controles\Libreria_DNL\ControlLibrary_DNL\ControlLibrary_DNL\obj\Debug\ControlLibrary_DNL.csproj.GenerateResource.Cache
+D:\Controlador de versiones\Sistemas\INCIDE\Controles\Libreria_DNL\ControlLibrary_DNL\ControlLibrary_DNL\obj\Debug\ControlLibrary_DNL.dll
+D:\Controlador de versiones\Sistemas\INCIDE\Controles\Libreria_DNL\ControlLibrary_DNL\ControlLibrary_DNL\obj\Debug\ControlLibrary_DNL.pdb
+D:\Controlador de versiones\Sistemas\INCIDE\Controles\Libreria_DNL\ControlLibrary_DNL\ControlLibrary_DNL\obj\Debug\ControlLibrary_DNL.csprojResolveAssemblyReference.cache

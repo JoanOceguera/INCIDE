@@ -1,0 +1,15 @@
+D:\Controlador de versiones\Sistemas\Sistema Almacenes 26-2-15\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.dll
+D:\Controlador de versiones\Sistemas\Sistema Almacenes 26-2-15\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.pdb
+D:\Controlador de versiones\Sistemas\Sistema Almacenes 26-2-15\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.Properties.Resources.resources
+D:\Controlador de versiones\Sistemas\Sistema Almacenes 26-2-15\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.UserControl1.resources
+D:\Controlador de versiones\Sistemas\Sistema Almacenes 26-2-15\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.GenerateResource.Cache
+D:\Controlador de versiones\Sistemas\Sistema Almacenes 26-2-15\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.dll
+D:\Controlador de versiones\Sistemas\Sistema Almacenes 26-2-15\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.pdb
+D:\Controlador de versiones\Sistemas\INCIDE\Controles\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.dll
+D:\Controlador de versiones\Sistemas\INCIDE\Controles\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.pdb
+D:\Controlador de versiones\Sistemas\INCIDE\Controles\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csprojResolveAssemblyReference.cache
+D:\Controlador de versiones\Sistemas\INCIDE\Controles\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.Properties.Resources.resources
+D:\Controlador de versiones\Sistemas\INCIDE\Controles\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.UserControl1.resources
+D:\Controlador de versiones\Sistemas\INCIDE\Controles\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.GenerateResource.Cache
+D:\Controlador de versiones\Sistemas\INCIDE\Controles\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.dll
+D:\Controlador de versiones\Sistemas\INCIDE\Controles\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.pdb

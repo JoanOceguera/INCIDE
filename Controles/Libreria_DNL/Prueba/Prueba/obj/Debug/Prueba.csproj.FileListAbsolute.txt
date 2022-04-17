@@ -1,0 +1,9 @@
+D:\Controlador de versiones\Sistemas\INCIDE\Controles\Libreria_DNL\Prueba\Prueba\bin\Debug\Prueba.dll
+D:\Controlador de versiones\Sistemas\INCIDE\Controles\Libreria_DNL\Prueba\Prueba\bin\Debug\Prueba.pdb
+D:\Controlador de versiones\Sistemas\INCIDE\Controles\Libreria_DNL\Prueba\Prueba\bin\Debug\libreria_Incidencia_Dentro.dll
+D:\Controlador de versiones\Sistemas\INCIDE\Controles\Libreria_DNL\Prueba\Prueba\bin\Debug\libreria_Incidencia_Dentro.pdb
+D:\Controlador de versiones\Sistemas\INCIDE\Controles\Libreria_DNL\Prueba\Prueba\obj\Debug\Prueba.UserControl1.resources
+D:\Controlador de versiones\Sistemas\INCIDE\Controles\Libreria_DNL\Prueba\Prueba\obj\Debug\Prueba.csproj.GenerateResource.Cache
+D:\Controlador de versiones\Sistemas\INCIDE\Controles\Libreria_DNL\Prueba\Prueba\obj\Debug\Prueba.dll
+D:\Controlador de versiones\Sistemas\INCIDE\Controles\Libreria_DNL\Prueba\Prueba\obj\Debug\Prueba.pdb
+D:\Controlador de versiones\Sistemas\INCIDE\Controles\Libreria_DNL\Prueba\Prueba\obj\Debug\Prueba.csprojResolveAssemblyReference.cache

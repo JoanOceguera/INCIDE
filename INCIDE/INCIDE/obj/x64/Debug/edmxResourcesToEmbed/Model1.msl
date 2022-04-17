@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="INCIDEModelStoreContainer" CdmEntityContainer="INCIDEEntities">
+    <EntitySetMapping Name="Agrupacion_nom">
+      <EntityTypeMapping TypeName="INCIDEModel.Agrupacion_nom">
+        <MappingFragment StoreEntitySet="Agrupacion_nom">
+          <ScalarProperty Name="id_agrup" ColumnName="id_agrup" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+          <ScalarProperty Name="codigo" ColumnName="codigo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Area">
+      <EntityTypeMapping TypeName="INCIDEModel.Area">
+        <MappingFragment StoreEntitySet="Area">
+          <ScalarProperty Name="id_area" ColumnName="id_area" />
+          <ScalarProperty Name="id_agrup_nom" ColumnName="id_agrup_nom" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+          <ScalarProperty Name="Persona_jefe" ColumnName="Persona_jefe" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Clave_nom">
+      <EntityTypeMapping TypeName="INCIDEModel.Clave_nom">
+        <MappingFragment StoreEntitySet="Clave_nom">
+          <ScalarProperty Name="id_clave" ColumnName="id_clave" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+          <ScalarProperty Name="activo" ColumnName="activo" />
+          <ScalarProperty Name="planificable" ColumnName="planificable" />
+          <ScalarProperty Name="codigo" ColumnName="codigo" />
+          <ScalarProperty Name="descuenta" ColumnName="descuenta" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Dia_no_laborable_nom">
+      <EntityTypeMapping TypeName="INCIDEModel.Dia_no_laborable_nom">
+        <MappingFragment StoreEntitySet="Dia_no_laborable_nom">
+          <ScalarProperty Name="id_Dia_no_lab" ColumnName="id_Dia_no_lab" />
+          <ScalarProperty Name="fecha" ColumnName="fecha" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="diaNoLaborable_Grupo">
+      <EntityTypeMapping TypeName="INCIDEModel.diaNoLaborable_Grupo">
+        <MappingFragment StoreEntitySet="diaNoLaborable_Grupo">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="id_dia_no_lab" ColumnName="id_dia_no_lab" />
+          <ScalarProperty Name="id_grupo" ColumnName="id_grupo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Forma_trabajo">
+      <EntityTypeMapping TypeName="INCIDEModel.Forma_trabajo">
+        <MappingFragment StoreEntitySet="Forma_trabajo">
+          <ScalarProperty Name="id_grupo" ColumnName="id_grupo" />
+          <ScalarProperty Name="id_periodo_tiempo" ColumnName="id_periodo_tiempo" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Grupo">
+      <EntityTypeMapping TypeName="INCIDEModel.Grupo">
+        <MappingFragment StoreEntitySet="Grupo">
+          <ScalarProperty Name="id_Grupo" ColumnName="id_Grupo" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="activo" ColumnName="activo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Historial_grupos_persona">
+      <EntityTypeMapping TypeName="INCIDEModel.Historial_grupos_persona">
+        <MappingFragment StoreEntitySet="Historial_grupos_persona">
+          <ScalarProperty Name="id_historial" ColumnName="id_historial" />
+          <ScalarProperty Name="id_persona" ColumnName="id_persona" />
+          <ScalarProperty Name="id_grupo" ColumnName="id_grupo" />
+          <ScalarProperty Name="fecha_inicio" ColumnName="fecha_inicio" />
+          <ScalarProperty Name="fecha_fin" ColumnName="fecha_fin" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Incidencia">
+      <EntityTypeMapping TypeName="INCIDEModel.Incidencia">
+        <MappingFragment StoreEntitySet="Incidencia">
+          <ScalarProperty Name="observacion" ColumnName="observacion" />
+          <ScalarProperty Name="id_incidencia" ColumnName="id_incidencia" />
+          <ScalarProperty Name="id_persona" ColumnName="id_persona" />
+          <ScalarProperty Name="id_clave" ColumnName="id_clave" />
+          <ScalarProperty Name="fecha" ColumnName="fecha" />
+          <ScalarProperty Name="tipotraza" ColumnName="tipotraza" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Mes_cerrado">
+      <EntityTypeMapping TypeName="INCIDEModel.Mes_cerrado">
+        <MappingFragment StoreEntitySet="Mes_cerrado">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="fecha" ColumnName="fecha" />
+          <ScalarProperty Name="cerrado" ColumnName="cerrado" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Password">
+      <EntityTypeMapping TypeName="INCIDEModel.Password">
+        <MappingFragment StoreEntitySet="Password">
+          <ScalarProperty Name="id_password" ColumnName="id_password" />
+          <ScalarProperty Name="password1" ColumnName="password" />
+          <ScalarProperty Name="id_persona" ColumnName="id_persona" />
+          <ScalarProperty Name="id_rol" ColumnName="id_rol" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Periodo_tiempo">
+      <EntityTypeMapping TypeName="INCIDEModel.Periodo_tiempo">
+        <MappingFragment StoreEntitySet="Periodo_tiempo">
+          <ScalarProperty Name="id_periodo_tiempo" ColumnName="id_periodo_tiempo" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+          <ScalarProperty Name="dias_periodo" ColumnName="dias_periodo" />
+          <ScalarProperty Name="hora_entrada" ColumnName="hora_entrada" />
+          <ScalarProperty Name="fecha_inicio" ColumnName="fecha_inicio" />
+          <ScalarProperty Name="minuto_almuerzo" ColumnName="minuto_almuerzo" />
+          <ScalarProperty Name="cantidad_horas" ColumnName="cantidad_horas" />
+          <ScalarProperty Name="activo" ColumnName="activo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Persona">
+      <EntityTypeMapping TypeName="INCIDEModel.Persona">
+        <MappingFragment StoreEntitySet="Persona">
+          <ScalarProperty Name="idGrupoEvaluacion" ColumnName="idGrupoEvaluacion" />
+          <ScalarProperty Name="id_Persona" ColumnName="id_Persona" />
+          <ScalarProperty Name="id_Grupo" ColumnName="id_Grupo" />
+          <ScalarProperty Name="exp" ColumnName="exp" />
+          <ScalarProperty Name="ci" ColumnName="ci" />
+          <ScalarProperty Name="id_area" ColumnName="id_area" />
+          <ScalarProperty Name="activo" ColumnName="activo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Planificacion">
+      <EntityTypeMapping TypeName="INCIDEModel.Planificacion">
+        <MappingFragment StoreEntitySet="Planificacion">
+          <ScalarProperty Name="id_planificacion" ColumnName="id_planificacion" />
+          <ScalarProperty Name="id_persona" ColumnName="id_persona" />
+          <ScalarProperty Name="id_clave" ColumnName="id_clave" />
+          <ScalarProperty Name="fecha_inicio" ColumnName="fecha_inicio" />
+          <ScalarProperty Name="fecha_fin" ColumnName="fecha_fin" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Responsable_area">
+      <EntityTypeMapping TypeName="INCIDEModel.Responsable_area">
+        <MappingFragment StoreEntitySet="Responsable_area">
+          <ScalarProperty Name="id_responsable_area" ColumnName="id_responsable_area" />
+          <ScalarProperty Name="id_persona" ColumnName="id_persona" />
+          <ScalarProperty Name="id_area" ColumnName="id_area" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Role_nom">
+      <EntityTypeMapping TypeName="INCIDEModel.Role_nom">
+        <MappingFragment StoreEntitySet="Role_nom">
+          <ScalarProperty Name="id_role" ColumnName="id_role" />
+          <ScalarProperty Name="codigo" ColumnName="codigo" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="INCIDEModel.sysdiagrams">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="GrupoEvaluacion">
+      <EntityTypeMapping TypeName="INCIDEModel.GrupoEvaluacion">
+        <MappingFragment StoreEntitySet="GrupoEvaluacion">
+          <ScalarProperty Name="cdsReferencial" ColumnName="cdsReferencial" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+          <ScalarProperty Name="idGrupoEvaluacion" ColumnName="idGrupoEvaluacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

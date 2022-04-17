@@ -1,0 +1,76 @@
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\bin\Release\INCIDE.exe.config
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Release\INCIDE.csproj.ResolveComReference.cache
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Release\INCIDE.AdminForm.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Release\INCIDE.ControlesVisuales.ControlIncidencia.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Release\INCIDE.Controles_Visuales.ControlPlanificacion.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Release\INCIDE.ControlesVisuales.Control_Planificar_DNL.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Release\INCIDE.Form1.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Release\INCIDE.GenerarDBF.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Release\INCIDE.GenerarXml.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Release\INCIDE.GestinarGruposPeriodosTiempo.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Release\INCIDE.GestionarAgrupacion.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Release\INCIDE.GestionarAreas.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Release\INCIDE.GestionarClaveNom.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Release\INCIDE.GestionarPeriodoTiempo.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Release\INCIDE.GestionarPersona.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Release\INCIDE.IncidenciasPorExpediente.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Release\INCIDE.Loggin.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Release\INCIDE.MenuAdministracion.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Release\INCIDE.MenuAdministracionReports.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Release\INCIDE.Properties.Resources.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Release\INCIDE.ReportesForm.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Release\INCIDE.TrazasHoy.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Release\INCIDE.csproj.GenerateResource.Cache
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Release\INCIDE.exe.licenses
+F:\Prácticas CIE\Nuevo Incide 11-7\INCIDE\INCIDE\bin\Release\INCIDE.exe.config
+F:\Prácticas CIE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Release\INCIDE.csproj.ResolveComReference.cache
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\bin\Release\INCIDE.exe.config
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Release\INCIDE.csproj.ResolveComReference.cache
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Release\INCIDE.csprojResolveAssemblyReference.cache
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Release\INCIDE.AdminForm.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Release\INCIDE.ControlesVisuales.ControlIncidencia.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Release\INCIDE.Controles_Visuales.ControlPlanificacion.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Release\INCIDE.ControlesVisuales.Control_Planificar_DNL.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Release\INCIDE.Form1.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Release\INCIDE.GenerarDBF.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Release\INCIDE.GenerarXml.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Release\INCIDE.GestinarGruposPeriodosTiempo.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Release\INCIDE.GestionarAgrupacion.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Release\INCIDE.GestionarAreas.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Release\INCIDE.GestionarClaveNom.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Release\INCIDE.GestionarPeriodoTiempo.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Release\INCIDE.GestionarPersona.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Release\INCIDE.IncidenciasPorExpediente.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Release\INCIDE.Loggin.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Release\INCIDE.MenuAdministracion.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Release\INCIDE.MenuAdministracionReports.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Release\INCIDE.Properties.Resources.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Release\INCIDE.ReportesForm.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Release\INCIDE.TrazasHoy.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Release\INCIDE.csproj.GenerateResource.Cache
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Release\INCIDE.exe.licenses
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Release\INCIDE.csprojAssemblyReference.cache
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Release\INCIDE.csproj.ResolveComReference.cache
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Release\INCIDE.AdminForm.resources
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Release\INCIDE.ControlesVisuales.ControlIncidencia.resources
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Release\INCIDE.Controles_Visuales.ControlPlanificacion.resources
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Release\INCIDE.ControlesVisuales.Control_Planificar_DNL.resources
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Release\INCIDE.Form1.resources
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Release\INCIDE.GenerarDBF.resources
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Release\INCIDE.GenerarXml.resources
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Release\INCIDE.GestinarGruposPeriodosTiempo.resources
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Release\INCIDE.GestionarAgrupacion.resources
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Release\INCIDE.GestionarAreas.resources
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Release\INCIDE.GestionarClaveNom.resources
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Release\INCIDE.GestionarGrupoEvaluacion.resources
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Release\INCIDE.GestionarPeriodoTiempo.resources
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Release\INCIDE.GestionarPersona.resources
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Release\INCIDE.IncidenciasPorExpediente.resources
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Release\INCIDE.Loggin.resources
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Release\INCIDE.MenuAdministracion.resources
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Release\INCIDE.MenuAdministracionReports.resources
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Release\INCIDE.Properties.Resources.resources
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Release\INCIDE.ReportesForm.resources
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Release\INCIDE.TrazasHoy.resources
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Release\INCIDE.csproj.GenerateResource.cache
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Release\INCIDE.exe.licenses

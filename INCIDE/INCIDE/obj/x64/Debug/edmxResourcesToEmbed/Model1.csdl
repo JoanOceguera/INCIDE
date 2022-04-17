@@ -1,0 +1,532 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="INCIDEModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="INCIDEEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Agrupacion_nom" EntityType="INCIDEModel.Agrupacion_nom" />
+    <EntitySet Name="Area" EntityType="INCIDEModel.Area" />
+    <EntitySet Name="Clave_nom" EntityType="INCIDEModel.Clave_nom" />
+    <EntitySet Name="Dia_no_laborable_nom" EntityType="INCIDEModel.Dia_no_laborable_nom" />
+    <EntitySet Name="diaNoLaborable_Grupo" EntityType="INCIDEModel.diaNoLaborable_Grupo" />
+    <EntitySet Name="Forma_trabajo" EntityType="INCIDEModel.Forma_trabajo" />
+    <EntitySet Name="Grupo" EntityType="INCIDEModel.Grupo" />
+    <EntitySet Name="Historial_grupos_persona" EntityType="INCIDEModel.Historial_grupos_persona" />
+    <EntitySet Name="Incidencia" EntityType="INCIDEModel.Incidencia" />
+    <EntitySet Name="Mes_cerrado" EntityType="INCIDEModel.Mes_cerrado" />
+    <EntitySet Name="Password" EntityType="INCIDEModel.Password" />
+    <EntitySet Name="Periodo_tiempo" EntityType="INCIDEModel.Periodo_tiempo" />
+    <EntitySet Name="Persona" EntityType="INCIDEModel.Persona" />
+    <EntitySet Name="Planificacion" EntityType="INCIDEModel.Planificacion" />
+    <EntitySet Name="Responsable_area" EntityType="INCIDEModel.Responsable_area" />
+    <EntitySet Name="Role_nom" EntityType="INCIDEModel.Role_nom" />
+    <EntitySet Name="sysdiagrams" EntityType="INCIDEModel.sysdiagrams" />
+    <AssociationSet Name="FK_Area_nom_Agrupacion_nom" Association="INCIDEModel.FK_Area_nom_Agrupacion_nom">
+      <End Role="Agrupacion_nom" EntitySet="Agrupacion_nom" />
+      <End Role="Area" EntitySet="Area" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Area_Persona" Association="INCIDEModel.FK_Area_Persona">
+      <End Role="Persona" EntitySet="Persona" />
+      <End Role="Area" EntitySet="Area" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Persona_Area" Association="INCIDEModel.FK_Persona_Area">
+      <End Role="Area" EntitySet="Area" />
+      <End Role="Persona" EntitySet="Persona" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Responsable_area_Area" Association="INCIDEModel.FK_Responsable_area_Area">
+      <End Role="Area" EntitySet="Area" />
+      <End Role="Responsable_area" EntitySet="Responsable_area" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Incidencia_Clave_nom" Association="INCIDEModel.FK_Incidencia_Clave_nom">
+      <End Role="Clave_nom" EntitySet="Clave_nom" />
+      <End Role="Incidencia" EntitySet="Incidencia" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Planificacion_Clave_nom" Association="INCIDEModel.FK_Planificacion_Clave_nom">
+      <End Role="Clave_nom" EntitySet="Clave_nom" />
+      <End Role="Planificacion" EntitySet="Planificacion" />
+    </AssociationSet>
+    <AssociationSet Name="FK_diaNoLaborable_Grupo_Dia_no_laborable_nom" Association="INCIDEModel.FK_diaNoLaborable_Grupo_Dia_no_laborable_nom">
+      <End Role="Dia_no_laborable_nom" EntitySet="Dia_no_laborable_nom" />
+      <End Role="diaNoLaborable_Grupo" EntitySet="diaNoLaborable_Grupo" />
+    </AssociationSet>
+    <AssociationSet Name="FK_diaNoLaborable_Grupo_Grupo" Association="INCIDEModel.FK_diaNoLaborable_Grupo_Grupo">
+      <End Role="Grupo" EntitySet="Grupo" />
+      <End Role="diaNoLaborable_Grupo" EntitySet="diaNoLaborable_Grupo" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Forma_trabajo_Grupo" Association="INCIDEModel.FK_Forma_trabajo_Grupo">
+      <End Role="Grupo" EntitySet="Grupo" />
+      <End Role="Forma_trabajo" EntitySet="Forma_trabajo" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Forma_trabajo_Periodo_tiempo" Association="INCIDEModel.FK_Forma_trabajo_Periodo_tiempo">
+      <End Role="Periodo_tiempo" EntitySet="Periodo_tiempo" />
+      <End Role="Forma_trabajo" EntitySet="Forma_trabajo" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Historial_grupos_persona_Grupo" Association="INCIDEModel.FK_Historial_grupos_persona_Grupo">
+      <End Role="Grupo" EntitySet="Grupo" />
+      <End Role="Historial_grupos_persona" EntitySet="Historial_grupos_persona" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Persona_Grupo" Association="INCIDEModel.FK_Persona_Grupo">
+      <End Role="Grupo" EntitySet="Grupo" />
+      <End Role="Persona" EntitySet="Persona" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Historial_grupos_persona_Persona" Association="INCIDEModel.FK_Historial_grupos_persona_Persona">
+      <End Role="Persona" EntitySet="Persona" />
+      <End Role="Historial_grupos_persona" EntitySet="Historial_grupos_persona" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Incidencia_Persona" Association="INCIDEModel.FK_Incidencia_Persona">
+      <End Role="Persona" EntitySet="Persona" />
+      <End Role="Incidencia" EntitySet="Incidencia" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Password_Persona" Association="INCIDEModel.FK_Password_Persona">
+      <End Role="Persona" EntitySet="Persona" />
+      <End Role="Password" EntitySet="Password" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Password_Role_nom" Association="INCIDEModel.FK_Password_Role_nom">
+      <End Role="Role_nom" EntitySet="Role_nom" />
+      <End Role="Password" EntitySet="Password" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Planificacion_Persona" Association="INCIDEModel.FK_Planificacion_Persona">
+      <End Role="Persona" EntitySet="Persona" />
+      <End Role="Planificacion" EntitySet="Planificacion" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Responsable_area_Persona" Association="INCIDEModel.FK_Responsable_area_Persona">
+      <End Role="Persona" EntitySet="Persona" />
+      <End Role="Responsable_area" EntitySet="Responsable_area" />
+    </AssociationSet>
+    <EntitySet Name="GrupoEvaluacion" EntityType="INCIDEModel.GrupoEvaluacion" />
+    <AssociationSet Name="FK_Persona_GrupoEvaluacion" Association="INCIDEModel.FK_Persona_GrupoEvaluacion">
+      <End Role="GrupoEvaluacion" EntitySet="GrupoEvaluacion" />
+      <End Role="Persona" EntitySet="Persona" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Agrupacion_nom">
+    <Key>
+      <PropertyRef Name="id_agrup" />
+    </Key>
+    <Property Name="id_agrup" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="descripcion" Type="String" Nullable="false" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="codigo" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <NavigationProperty Name="Area" Relationship="INCIDEModel.FK_Area_nom_Agrupacion_nom" FromRole="Agrupacion_nom" ToRole="Area" />
+  </EntityType>
+  <EntityType Name="Area">
+    <Key>
+      <PropertyRef Name="id_area" />
+    </Key>
+    <Property Name="id_area" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="id_agrup_nom" Type="Int32" Nullable="false" />
+    <Property Name="descripcion" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Persona_jefe" Type="Int32" />
+    <NavigationProperty Name="Agrupacion_nom" Relationship="INCIDEModel.FK_Area_nom_Agrupacion_nom" FromRole="Area" ToRole="Agrupacion_nom" />
+    <NavigationProperty Name="Persona" Relationship="INCIDEModel.FK_Area_Persona" FromRole="Area" ToRole="Persona" />
+    <NavigationProperty Name="Persona1" Relationship="INCIDEModel.FK_Persona_Area" FromRole="Area" ToRole="Persona" />
+    <NavigationProperty Name="Responsable_area" Relationship="INCIDEModel.FK_Responsable_area_Area" FromRole="Area" ToRole="Responsable_area" />
+  </EntityType>
+  <EntityType Name="Clave_nom">
+    <Key>
+      <PropertyRef Name="id_clave" />
+    </Key>
+    <Property Name="id_clave" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="descripcion" Type="String" Nullable="false" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="activo" Type="Int32" Nullable="false" />
+    <Property Name="planificable" Type="Int32" Nullable="false" />
+    <Property Name="codigo" Type="String" Nullable="false" MaxLength="4" Unicode="false" FixedLength="false" />
+    <Property Name="descuenta" Type="Int32" />
+    <NavigationProperty Name="Incidencia" Relationship="INCIDEModel.FK_Incidencia_Clave_nom" FromRole="Clave_nom" ToRole="Incidencia" />
+    <NavigationProperty Name="Planificacion" Relationship="INCIDEModel.FK_Planificacion_Clave_nom" FromRole="Clave_nom" ToRole="Planificacion" />
+  </EntityType>
+  <EntityType Name="Dia_no_laborable_nom">
+    <Key>
+      <PropertyRef Name="id_Dia_no_lab" />
+    </Key>
+    <Property Name="id_Dia_no_lab" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="fecha" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="descripcion" Type="String" Nullable="false" MaxLength="100" Unicode="false" FixedLength="false" />
+    <NavigationProperty Name="diaNoLaborable_Grupo" Relationship="INCIDEModel.FK_diaNoLaborable_Grupo_Dia_no_laborable_nom" FromRole="Dia_no_laborable_nom" ToRole="diaNoLaborable_Grupo" />
+  </EntityType>
+  <EntityType Name="diaNoLaborable_Grupo">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="id_dia_no_lab" Type="Int32" Nullable="false" />
+    <Property Name="id_grupo" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Dia_no_laborable_nom" Relationship="INCIDEModel.FK_diaNoLaborable_Grupo_Dia_no_laborable_nom" FromRole="diaNoLaborable_Grupo" ToRole="Dia_no_laborable_nom" />
+    <NavigationProperty Name="Grupo" Relationship="INCIDEModel.FK_diaNoLaborable_Grupo_Grupo" FromRole="diaNoLaborable_Grupo" ToRole="Grupo" />
+  </EntityType>
+  <EntityType Name="Forma_trabajo">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id_grupo" Type="Int32" />
+    <Property Name="id_periodo_tiempo" Type="Int32" Nullable="false" />
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="Grupo" Relationship="INCIDEModel.FK_Forma_trabajo_Grupo" FromRole="Forma_trabajo" ToRole="Grupo" />
+    <NavigationProperty Name="Periodo_tiempo" Relationship="INCIDEModel.FK_Forma_trabajo_Periodo_tiempo" FromRole="Forma_trabajo" ToRole="Periodo_tiempo" />
+  </EntityType>
+  <EntityType Name="Grupo">
+    <Key>
+      <PropertyRef Name="id_Grupo" />
+    </Key>
+    <Property Name="id_Grupo" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nombre" Type="String" Nullable="false" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="activo" Type="Int32" />
+    <NavigationProperty Name="diaNoLaborable_Grupo" Relationship="INCIDEModel.FK_diaNoLaborable_Grupo_Grupo" FromRole="Grupo" ToRole="diaNoLaborable_Grupo" />
+    <NavigationProperty Name="Forma_trabajo" Relationship="INCIDEModel.FK_Forma_trabajo_Grupo" FromRole="Grupo" ToRole="Forma_trabajo" />
+    <NavigationProperty Name="Historial_grupos_persona" Relationship="INCIDEModel.FK_Historial_grupos_persona_Grupo" FromRole="Grupo" ToRole="Historial_grupos_persona" />
+    <NavigationProperty Name="Persona" Relationship="INCIDEModel.FK_Persona_Grupo" FromRole="Grupo" ToRole="Persona" />
+  </EntityType>
+  <EntityType Name="Historial_grupos_persona">
+    <Key>
+      <PropertyRef Name="id_historial" />
+    </Key>
+    <Property Name="id_historial" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="id_persona" Type="Int32" Nullable="false" />
+    <Property Name="id_grupo" Type="Int32" Nullable="false" />
+    <Property Name="fecha_inicio" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="fecha_fin" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Grupo" Relationship="INCIDEModel.FK_Historial_grupos_persona_Grupo" FromRole="Historial_grupos_persona" ToRole="Grupo" />
+    <NavigationProperty Name="Persona" Relationship="INCIDEModel.FK_Historial_grupos_persona_Persona" FromRole="Historial_grupos_persona" ToRole="Persona" />
+  </EntityType>
+  <EntityType Name="Incidencia">
+    <Key>
+      <PropertyRef Name="id_incidencia" />
+    </Key>
+    <Property Name="id_incidencia" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="id_persona" Type="Int32" Nullable="false" />
+    <Property Name="id_clave" Type="Int32" />
+    <Property Name="fecha" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="tipotraza" Type="String" MaxLength="2" Unicode="false" FixedLength="false" />
+    <NavigationProperty Name="Clave_nom" Relationship="INCIDEModel.FK_Incidencia_Clave_nom" FromRole="Incidencia" ToRole="Clave_nom" />
+    <NavigationProperty Name="Persona" Relationship="INCIDEModel.FK_Incidencia_Persona" FromRole="Incidencia" ToRole="Persona" />
+    <Property Type="String" Name="observacion" MaxLength="Max" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Mes_cerrado">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="fecha" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="cerrado" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Password">
+    <Key>
+      <PropertyRef Name="id_password" />
+    </Key>
+    <Property Name="id_password" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="password1" Type="String" Nullable="false" MaxLength="250" Unicode="false" FixedLength="false" />
+    <Property Name="id_persona" Type="Int32" Nullable="false" />
+    <Property Name="id_rol" Type="Int32" />
+    <NavigationProperty Name="Persona" Relationship="INCIDEModel.FK_Password_Persona" FromRole="Password" ToRole="Persona" />
+    <NavigationProperty Name="Role_nom" Relationship="INCIDEModel.FK_Password_Role_nom" FromRole="Password" ToRole="Role_nom" />
+  </EntityType>
+  <EntityType Name="Periodo_tiempo">
+    <Key>
+      <PropertyRef Name="id_periodo_tiempo" />
+    </Key>
+    <Property Name="id_periodo_tiempo" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="descripcion" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="dias_periodo" Type="Int32" />
+    <Property Name="hora_entrada" Type="Time" Precision="0" />
+    <Property Name="fecha_inicio" Type="DateTime" Precision="3" />
+    <Property Name="minuto_almuerzo" Type="Int32" />
+    <Property Name="cantidad_horas" Type="Int32" />
+    <Property Name="activo" Type="Int32" />
+    <NavigationProperty Name="Forma_trabajo" Relationship="INCIDEModel.FK_Forma_trabajo_Periodo_tiempo" FromRole="Periodo_tiempo" ToRole="Forma_trabajo" />
+  </EntityType>
+  <EntityType Name="Persona">
+    <Key>
+      <PropertyRef Name="id_Persona" />
+    </Key>
+    <Property Name="id_Persona" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="id_Grupo" Type="Int32" />
+    <Property Name="exp" Type="Int32" Nullable="false" />
+    <Property Name="ci" Type="String" Nullable="false" MaxLength="11" Unicode="false" FixedLength="false" />
+    <Property Name="id_area" Type="Int32" />
+    <Property Name="activo" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Area" Relationship="INCIDEModel.FK_Area_Persona" FromRole="Persona" ToRole="Area" />
+    <NavigationProperty Name="Area1" Relationship="INCIDEModel.FK_Persona_Area" FromRole="Persona" ToRole="Area" />
+    <NavigationProperty Name="Grupo" Relationship="INCIDEModel.FK_Persona_Grupo" FromRole="Persona" ToRole="Grupo" />
+    <NavigationProperty Name="Historial_grupos_persona" Relationship="INCIDEModel.FK_Historial_grupos_persona_Persona" FromRole="Persona" ToRole="Historial_grupos_persona" />
+    <NavigationProperty Name="Incidencia" Relationship="INCIDEModel.FK_Incidencia_Persona" FromRole="Persona" ToRole="Incidencia" />
+    <NavigationProperty Name="Password" Relationship="INCIDEModel.FK_Password_Persona" FromRole="Persona" ToRole="Password" />
+    <NavigationProperty Name="Planificacion" Relationship="INCIDEModel.FK_Planificacion_Persona" FromRole="Persona" ToRole="Planificacion" />
+    <NavigationProperty Name="Responsable_area" Relationship="INCIDEModel.FK_Responsable_area_Persona" FromRole="Persona" ToRole="Responsable_area" />
+    <Property Name="idGrupoEvaluacion" Type="Int32" />
+    <NavigationProperty Name="GrupoEvaluacion" Relationship="INCIDEModel.FK_Persona_GrupoEvaluacion" FromRole="Persona" ToRole="GrupoEvaluacion" />
+  </EntityType>
+  <EntityType Name="Planificacion">
+    <Key>
+      <PropertyRef Name="id_planificacion" />
+    </Key>
+    <Property Name="id_planificacion" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="id_persona" Type="Int32" />
+    <Property Name="id_clave" Type="Int32" />
+    <Property Name="fecha_inicio" Type="DateTime" Precision="3" />
+    <Property Name="fecha_fin" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="Clave_nom" Relationship="INCIDEModel.FK_Planificacion_Clave_nom" FromRole="Planificacion" ToRole="Clave_nom" />
+    <NavigationProperty Name="Persona" Relationship="INCIDEModel.FK_Planificacion_Persona" FromRole="Planificacion" ToRole="Persona" />
+  </EntityType>
+  <EntityType Name="Responsable_area">
+    <Key>
+      <PropertyRef Name="id_responsable_area" />
+    </Key>
+    <Property Name="id_responsable_area" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="id_persona" Type="Int32" Nullable="false" />
+    <Property Name="id_area" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Area" Relationship="INCIDEModel.FK_Responsable_area_Area" FromRole="Responsable_area" ToRole="Area" />
+    <NavigationProperty Name="Persona" Relationship="INCIDEModel.FK_Responsable_area_Persona" FromRole="Responsable_area" ToRole="Persona" />
+  </EntityType>
+  <EntityType Name="Role_nom">
+    <Key>
+      <PropertyRef Name="id_role" />
+    </Key>
+    <Property Name="id_role" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="codigo" Type="Int32" Nullable="false" />
+    <Property Name="descripcion" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <NavigationProperty Name="Password" Relationship="INCIDEModel.FK_Password_Role_nom" FromRole="Role_nom" ToRole="Password" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" Nullable="false" MaxLength="128" Unicode="true" FixedLength="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <Association Name="FK_Area_nom_Agrupacion_nom">
+    <End Role="Agrupacion_nom" Type="INCIDEModel.Agrupacion_nom" Multiplicity="1" />
+    <End Role="Area" Type="INCIDEModel.Area" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Agrupacion_nom">
+        <PropertyRef Name="id_agrup" />
+      </Principal>
+      <Dependent Role="Area">
+        <PropertyRef Name="id_agrup_nom" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Area_Persona">
+    <End Role="Persona" Type="INCIDEModel.Persona" Multiplicity="0..1" />
+    <End Role="Area" Type="INCIDEModel.Area" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Persona">
+        <PropertyRef Name="id_Persona" />
+      </Principal>
+      <Dependent Role="Area">
+        <PropertyRef Name="Persona_jefe" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Persona_Area">
+    <End Role="Area" Type="INCIDEModel.Area" Multiplicity="0..1" />
+    <End Role="Persona" Type="INCIDEModel.Persona" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Area">
+        <PropertyRef Name="id_area" />
+      </Principal>
+      <Dependent Role="Persona">
+        <PropertyRef Name="id_area" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Responsable_area_Area">
+    <End Role="Area" Type="INCIDEModel.Area" Multiplicity="1" />
+    <End Role="Responsable_area" Type="INCIDEModel.Responsable_area" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Area">
+        <PropertyRef Name="id_area" />
+      </Principal>
+      <Dependent Role="Responsable_area">
+        <PropertyRef Name="id_area" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Incidencia_Clave_nom">
+    <End Role="Clave_nom" Type="INCIDEModel.Clave_nom" Multiplicity="0..1" />
+    <End Role="Incidencia" Type="INCIDEModel.Incidencia" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Clave_nom">
+        <PropertyRef Name="id_clave" />
+      </Principal>
+      <Dependent Role="Incidencia">
+        <PropertyRef Name="id_clave" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Planificacion_Clave_nom">
+    <End Role="Clave_nom" Type="INCIDEModel.Clave_nom" Multiplicity="0..1" />
+    <End Role="Planificacion" Type="INCIDEModel.Planificacion" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Clave_nom">
+        <PropertyRef Name="id_clave" />
+      </Principal>
+      <Dependent Role="Planificacion">
+        <PropertyRef Name="id_clave" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_diaNoLaborable_Grupo_Dia_no_laborable_nom">
+    <End Role="Dia_no_laborable_nom" Type="INCIDEModel.Dia_no_laborable_nom" Multiplicity="1" />
+    <End Role="diaNoLaborable_Grupo" Type="INCIDEModel.diaNoLaborable_Grupo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Dia_no_laborable_nom">
+        <PropertyRef Name="id_Dia_no_lab" />
+      </Principal>
+      <Dependent Role="diaNoLaborable_Grupo">
+        <PropertyRef Name="id_dia_no_lab" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_diaNoLaborable_Grupo_Grupo">
+    <End Role="Grupo" Type="INCIDEModel.Grupo" Multiplicity="1" />
+    <End Role="diaNoLaborable_Grupo" Type="INCIDEModel.diaNoLaborable_Grupo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Grupo">
+        <PropertyRef Name="id_Grupo" />
+      </Principal>
+      <Dependent Role="diaNoLaborable_Grupo">
+        <PropertyRef Name="id_grupo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Forma_trabajo_Grupo">
+    <End Role="Grupo" Type="INCIDEModel.Grupo" Multiplicity="0..1" />
+    <End Role="Forma_trabajo" Type="INCIDEModel.Forma_trabajo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Grupo">
+        <PropertyRef Name="id_Grupo" />
+      </Principal>
+      <Dependent Role="Forma_trabajo">
+        <PropertyRef Name="id_grupo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Forma_trabajo_Periodo_tiempo">
+    <End Role="Periodo_tiempo" Type="INCIDEModel.Periodo_tiempo" Multiplicity="1" />
+    <End Role="Forma_trabajo" Type="INCIDEModel.Forma_trabajo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Periodo_tiempo">
+        <PropertyRef Name="id_periodo_tiempo" />
+      </Principal>
+      <Dependent Role="Forma_trabajo">
+        <PropertyRef Name="id_periodo_tiempo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Historial_grupos_persona_Grupo">
+    <End Role="Grupo" Type="INCIDEModel.Grupo" Multiplicity="1" />
+    <End Role="Historial_grupos_persona" Type="INCIDEModel.Historial_grupos_persona" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Grupo">
+        <PropertyRef Name="id_Grupo" />
+      </Principal>
+      <Dependent Role="Historial_grupos_persona">
+        <PropertyRef Name="id_grupo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Persona_Grupo">
+    <End Role="Grupo" Type="INCIDEModel.Grupo" Multiplicity="0..1" />
+    <End Role="Persona" Type="INCIDEModel.Persona" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Grupo">
+        <PropertyRef Name="id_Grupo" />
+      </Principal>
+      <Dependent Role="Persona">
+        <PropertyRef Name="id_Grupo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Historial_grupos_persona_Persona">
+    <End Role="Persona" Type="INCIDEModel.Persona" Multiplicity="1" />
+    <End Role="Historial_grupos_persona" Type="INCIDEModel.Historial_grupos_persona" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Persona">
+        <PropertyRef Name="id_Persona" />
+      </Principal>
+      <Dependent Role="Historial_grupos_persona">
+        <PropertyRef Name="id_persona" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Incidencia_Persona">
+    <End Role="Persona" Type="INCIDEModel.Persona" Multiplicity="1" />
+    <End Role="Incidencia" Type="INCIDEModel.Incidencia" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Persona">
+        <PropertyRef Name="id_Persona" />
+      </Principal>
+      <Dependent Role="Incidencia">
+        <PropertyRef Name="id_persona" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Password_Persona">
+    <End Role="Persona" Type="INCIDEModel.Persona" Multiplicity="1" />
+    <End Role="Password" Type="INCIDEModel.Password" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Persona">
+        <PropertyRef Name="id_Persona" />
+      </Principal>
+      <Dependent Role="Password">
+        <PropertyRef Name="id_persona" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Password_Role_nom">
+    <End Role="Role_nom" Type="INCIDEModel.Role_nom" Multiplicity="0..1" />
+    <End Role="Password" Type="INCIDEModel.Password" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Role_nom">
+        <PropertyRef Name="id_role" />
+      </Principal>
+      <Dependent Role="Password">
+        <PropertyRef Name="id_rol" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Planificacion_Persona">
+    <End Role="Persona" Type="INCIDEModel.Persona" Multiplicity="0..1" />
+    <End Role="Planificacion" Type="INCIDEModel.Planificacion" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Persona">
+        <PropertyRef Name="id_Persona" />
+      </Principal>
+      <Dependent Role="Planificacion">
+        <PropertyRef Name="id_persona" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Responsable_area_Persona">
+    <End Role="Persona" Type="INCIDEModel.Persona" Multiplicity="1" />
+    <End Role="Responsable_area" Type="INCIDEModel.Responsable_area" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Persona">
+        <PropertyRef Name="id_Persona" />
+      </Principal>
+      <Dependent Role="Responsable_area">
+        <PropertyRef Name="id_persona" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="GrupoEvaluacion">
+    <Key>
+      <PropertyRef Name="idGrupoEvaluacion" />
+    </Key>
+    <Property Name="idGrupoEvaluacion" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="descripcion" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="cdsReferencial" Type="Decimal" Nullable="false" Precision="10" Scale="2" />
+    <NavigationProperty Name="Persona" Relationship="INCIDEModel.FK_Persona_GrupoEvaluacion" FromRole="GrupoEvaluacion" ToRole="Persona" />
+  </EntityType>
+  <Association Name="FK_Persona_GrupoEvaluacion">
+    <End Type="INCIDEModel.GrupoEvaluacion" Role="GrupoEvaluacion" Multiplicity="0..1" />
+    <End Type="INCIDEModel.Persona" Role="Persona" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="GrupoEvaluacion">
+        <PropertyRef Name="idGrupoEvaluacion" />
+      </Principal>
+      <Dependent Role="Persona">
+        <PropertyRef Name="idGrupoEvaluacion" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libreria_Incidencia_Dentro", "libreria_Incidencia_Dentro\libreria_Incidencia_Dentro.csproj", "{FBC1E14A-2AF0-434F-BF44-F5B0B3C27BD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBC1E14A-2AF0-434F-BF44-F5B0B3C27BD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBC1E14A-2AF0-434F-BF44-F5B0B3C27BD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBC1E14A-2AF0-434F-BF44-F5B0B3C27BD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBC1E14A-2AF0-434F-BF44-F5B0B3C27BD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

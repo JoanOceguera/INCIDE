@@ -1,0 +1,864 @@
+C:\Users\infanalista7\Desktop\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.exe.config
+C:\Users\infanalista7\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe
+C:\Users\infanalista7\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.pdb
+C:\Users\infanalista7\Desktop\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.exe.manifest
+C:\Users\infanalista7\Desktop\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.application
+C:\Users\infanalista7\Desktop\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.exe
+C:\Users\infanalista7\Desktop\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.pdb
+C:\Users\infanalista7\Desktop\INCIDE\INCIDE\INCIDE\bin\Debug\ControlDNL.dll
+C:\Users\infanalista7\Desktop\INCIDE\INCIDE\INCIDE\bin\Debug\ControlLibrary_DNL.dll
+C:\Users\infanalista7\Desktop\INCIDE\INCIDE\INCIDE\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\infanalista7\Desktop\INCIDE\INCIDE\INCIDE\bin\Debug\ControlDNL.pdb
+C:\Users\infanalista7\Desktop\INCIDE\INCIDE\INCIDE\bin\Debug\ControlLibrary_DNL.pdb
+C:\Users\infanalista7\Desktop\INCIDE\INCIDE\INCIDE\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\infanalista7\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csprojResolveAssemblyReference.cache
+C:\Users\infanalista7\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.AdminForm.resources
+C:\Users\infanalista7\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ControlesVisuales.ControlIncidencia.resources
+C:\Users\infanalista7\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Controles_Visuales.ControlPlanificacion.resources
+C:\Users\infanalista7\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ControlesVisuales.Control_Planificar_DNL.resources
+C:\Users\infanalista7\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Form1.resources
+C:\Users\infanalista7\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Loggin.resources
+C:\Users\infanalista7\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Properties.Resources.resources
+C:\Users\infanalista7\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ReportesForm.resources
+C:\Users\infanalista7\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.GenerateResource.Cache
+C:\Users\infanalista7\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe.licenses
+C:\Users\infanalista7\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe.manifest
+C:\Users\infanalista7\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.application
+\\infanalista6\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.exe.config
+\\infanalista6\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.exe.manifest
+\\infanalista6\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.application
+\\infanalista6\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.exe
+\\infanalista6\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.pdb
+\\infanalista6\INCIDE\INCIDE\INCIDE\bin\Debug\ControlDNL.dll
+\\infanalista6\INCIDE\INCIDE\INCIDE\bin\Debug\ControlLibrary_DNL.dll
+\\infanalista6\INCIDE\INCIDE\INCIDE\bin\Debug\WindowsFormsControlLibrary1.dll
+\\infanalista6\INCIDE\INCIDE\INCIDE\bin\Debug\ControlDNL.pdb
+\\infanalista6\INCIDE\INCIDE\INCIDE\bin\Debug\ControlLibrary_DNL.pdb
+\\infanalista6\INCIDE\INCIDE\INCIDE\bin\Debug\WindowsFormsControlLibrary1.pdb
+\\infanalista6\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.AdminForm.resources
+\\infanalista6\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ControlesVisuales.ControlIncidencia.resources
+\\infanalista6\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Controles_Visuales.ControlPlanificacion.resources
+\\infanalista6\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ControlesVisuales.Control_Planificar_DNL.resources
+\\infanalista6\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Form1.resources
+\\infanalista6\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GenerarDBF.resources
+\\infanalista6\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarAreas.resources
+\\infanalista6\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarClaveNom.resources
+\\infanalista6\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarPersona.resources
+\\infanalista6\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.IncidenciasPorExpediente.resources
+\\infanalista6\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Loggin.resources
+\\infanalista6\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.MenuAdministracion.resources
+\\infanalista6\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.MenuAdministracionReports.resources
+\\infanalista6\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Properties.Resources.resources
+\\infanalista6\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ReportesForm.resources
+\\infanalista6\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.GenerateResource.Cache
+\\infanalista6\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe.licenses
+\\infanalista6\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe.manifest
+\\infanalista6\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.application
+\\infanalista6\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe
+\\infanalista6\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.pdb
+D:\Projectos\INCIDE\INCIDE\bin\Debug\INCIDE.exe.config
+D:\Projectos\INCIDE\INCIDE\bin\Debug\INCIDE.exe.manifest
+D:\Projectos\INCIDE\INCIDE\bin\Debug\INCIDE.application
+D:\Projectos\INCIDE\INCIDE\bin\Debug\INCIDE.exe
+D:\Projectos\INCIDE\INCIDE\bin\Debug\INCIDE.pdb
+D:\Projectos\INCIDE\INCIDE\obj\x86\Debug\INCIDE.AdminForm.resources
+D:\Projectos\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ControlesVisuales.ControlIncidencia.resources
+D:\Projectos\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Controles_Visuales.ControlPlanificacion.resources
+D:\Projectos\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ControlesVisuales.Control_Planificar_DNL.resources
+D:\Projectos\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Form1.resources
+D:\Projectos\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GenerarDBF.resources
+D:\Projectos\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestinarGruposPeriodosTiempo.resources
+D:\Projectos\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarAgrupacion.resources
+D:\Projectos\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarAreas.resources
+D:\Projectos\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarClaveNom.resources
+D:\Projectos\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarPeriodoTiempo.resources
+D:\Projectos\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarPersona.resources
+D:\Projectos\INCIDE\INCIDE\obj\x86\Debug\INCIDE.IncidenciasPorExpediente.resources
+D:\Projectos\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Loggin.resources
+D:\Projectos\INCIDE\INCIDE\obj\x86\Debug\INCIDE.MenuAdministracion.resources
+D:\Projectos\INCIDE\INCIDE\obj\x86\Debug\INCIDE.MenuAdministracionReports.resources
+D:\Projectos\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Properties.Resources.resources
+D:\Projectos\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ReportesForm.resources
+D:\Projectos\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.GenerateResource.Cache
+D:\Projectos\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe.licenses
+D:\Projectos\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe.manifest
+D:\Projectos\INCIDE\INCIDE\obj\x86\Debug\INCIDE.application
+D:\Projectos\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe
+D:\Projectos\INCIDE\INCIDE\obj\x86\Debug\INCIDE.pdb
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.exe.config
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.exe.manifest
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.application
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.exe
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.pdb
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\bin\Debug\ControlDNL.dll
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\bin\Debug\ControlLibrary_DNL.dll
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\bin\Debug\WindowsFormsControlLibrary1.dll
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\bin\Debug\ControlDNL.pdb
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\bin\Debug\ControlLibrary_DNL.pdb
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\bin\Debug\WindowsFormsControlLibrary1.pdb
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.AdminForm.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ControlesVisuales.ControlIncidencia.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Controles_Visuales.ControlPlanificacion.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ControlesVisuales.Control_Planificar_DNL.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Form1.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GenerarDBF.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestinarGruposPeriodosTiempo.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarAgrupacion.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarAreas.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarClaveNom.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarPeriodoTiempo.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarPersona.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.IncidenciasPorExpediente.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Loggin.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.MenuAdministracion.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.MenuAdministracionReports.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Properties.Resources.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ReportesForm.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.GenerateResource.Cache
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe.licenses
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe.manifest
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.application
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.pdb
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csprojResolveAssemblyReference.cache
+D:\Projectos\incideAilin\INCIDE-mio\INCIDE\bin\Debug\INCIDE.exe.config
+D:\Projectos\incideAilin\INCIDE-mio\INCIDE\bin\Debug\INCIDE.exe.manifest
+D:\Projectos\incideAilin\INCIDE-mio\INCIDE\bin\Debug\INCIDE.application
+D:\Projectos\incideAilin\INCIDE-mio\INCIDE\bin\Debug\INCIDE.exe
+D:\Projectos\incideAilin\INCIDE-mio\INCIDE\bin\Debug\INCIDE.pdb
+D:\Projectos\incideAilin\INCIDE-mio\INCIDE\obj\x86\Debug\INCIDE.AdminForm.resources
+D:\Projectos\incideAilin\INCIDE-mio\INCIDE\obj\x86\Debug\INCIDE.ControlesVisuales.ControlIncidencia.resources
+D:\Projectos\incideAilin\INCIDE-mio\INCIDE\obj\x86\Debug\INCIDE.Controles_Visuales.ControlPlanificacion.resources
+D:\Projectos\incideAilin\INCIDE-mio\INCIDE\obj\x86\Debug\INCIDE.ControlesVisuales.Control_Planificar_DNL.resources
+D:\Projectos\incideAilin\INCIDE-mio\INCIDE\obj\x86\Debug\INCIDE.Form1.resources
+D:\Projectos\incideAilin\INCIDE-mio\INCIDE\obj\x86\Debug\INCIDE.GenerarDBF.resources
+D:\Projectos\incideAilin\INCIDE-mio\INCIDE\obj\x86\Debug\INCIDE.GestinarGruposPeriodosTiempo.resources
+D:\Projectos\incideAilin\INCIDE-mio\INCIDE\obj\x86\Debug\INCIDE.GestionarAgrupacion.resources
+D:\Projectos\incideAilin\INCIDE-mio\INCIDE\obj\x86\Debug\INCIDE.GestionarAreas.resources
+D:\Projectos\incideAilin\INCIDE-mio\INCIDE\obj\x86\Debug\INCIDE.GestionarClaveNom.resources
+D:\Projectos\incideAilin\INCIDE-mio\INCIDE\obj\x86\Debug\INCIDE.GestionarPeriodoTiempo.resources
+D:\Projectos\incideAilin\INCIDE-mio\INCIDE\obj\x86\Debug\INCIDE.GestionarPersona.resources
+D:\Projectos\incideAilin\INCIDE-mio\INCIDE\obj\x86\Debug\INCIDE.IncidenciasPorExpediente.resources
+D:\Projectos\incideAilin\INCIDE-mio\INCIDE\obj\x86\Debug\INCIDE.Loggin.resources
+D:\Projectos\incideAilin\INCIDE-mio\INCIDE\obj\x86\Debug\INCIDE.MenuAdministracion.resources
+D:\Projectos\incideAilin\INCIDE-mio\INCIDE\obj\x86\Debug\INCIDE.MenuAdministracionReports.resources
+D:\Projectos\incideAilin\INCIDE-mio\INCIDE\obj\x86\Debug\INCIDE.Properties.Resources.resources
+D:\Projectos\incideAilin\INCIDE-mio\INCIDE\obj\x86\Debug\INCIDE.ReportesForm.resources
+D:\Projectos\incideAilin\INCIDE-mio\INCIDE\obj\x86\Debug\INCIDE.csproj.GenerateResource.Cache
+D:\Projectos\incideAilin\INCIDE-mio\INCIDE\obj\x86\Debug\INCIDE.exe.licenses
+D:\Projectos\incideAilin\INCIDE-mio\INCIDE\obj\x86\Debug\INCIDE.exe.manifest
+D:\Projectos\incideAilin\INCIDE-mio\INCIDE\obj\x86\Debug\INCIDE.application
+D:\Projectos\incideAilin\INCIDE-mio\INCIDE\obj\x86\Debug\INCIDE.exe
+D:\Projectos\incideAilin\INCIDE-mio\INCIDE\obj\x86\Debug\INCIDE.pdb
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\bin\Debug\ControlIncidenciaFuera.pdb
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\bin\Debug\libreria_Incidencia_Dentro.pdb
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.TrazasHoy.resources
+\\infanalista6\INCIDE\INCIDE\INCIDE\bin\Debug\ControlIncidenciaFuera.pdb
+\\infanalista6\INCIDE\INCIDE\INCIDE\bin\Debug\libreria_Incidencia_Dentro.pdb
+\\infanalista6\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csprojResolveAssemblyReference.cache
+\\infanalista6\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestinarGruposPeriodosTiempo.resources
+\\infanalista6\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarAgrupacion.resources
+\\infanalista6\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarPeriodoTiempo.resources
+\\infanalista6\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.TrazasHoy.resources
+D:\aprendiendo\Desarrollo\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.exe.config
+D:\aprendiendo\Desarrollo\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe
+D:\aprendiendo\Desarrollo\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.pdb
+D:\aprendiendo\Desarrollo\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.exe.manifest
+D:\aprendiendo\Desarrollo\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.application
+D:\aprendiendo\Desarrollo\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.exe
+D:\aprendiendo\Desarrollo\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.pdb
+D:\aprendiendo\Desarrollo\INCIDE\INCIDE\INCIDE\bin\Debug\ControlDNL.dll
+D:\aprendiendo\Desarrollo\INCIDE\INCIDE\INCIDE\bin\Debug\ControlLibrary_DNL.dll
+D:\aprendiendo\Desarrollo\INCIDE\INCIDE\INCIDE\bin\Debug\WindowsFormsControlLibrary1.dll
+D:\aprendiendo\Desarrollo\INCIDE\INCIDE\INCIDE\bin\Debug\ControlDNL.pdb
+D:\aprendiendo\Desarrollo\INCIDE\INCIDE\INCIDE\bin\Debug\ControlIncidenciaFuera.pdb
+D:\aprendiendo\Desarrollo\INCIDE\INCIDE\INCIDE\bin\Debug\ControlLibrary_DNL.pdb
+D:\aprendiendo\Desarrollo\INCIDE\INCIDE\INCIDE\bin\Debug\libreria_Incidencia_Dentro.pdb
+D:\aprendiendo\Desarrollo\INCIDE\INCIDE\INCIDE\bin\Debug\WindowsFormsControlLibrary1.pdb
+D:\aprendiendo\Desarrollo\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csprojResolveAssemblyReference.cache
+D:\aprendiendo\Desarrollo\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.AdminForm.resources
+D:\aprendiendo\Desarrollo\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ControlesVisuales.ControlIncidencia.resources
+D:\aprendiendo\Desarrollo\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Controles_Visuales.ControlPlanificacion.resources
+D:\aprendiendo\Desarrollo\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ControlesVisuales.Control_Planificar_DNL.resources
+D:\aprendiendo\Desarrollo\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Form1.resources
+D:\aprendiendo\Desarrollo\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GenerarDBF.resources
+D:\aprendiendo\Desarrollo\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestinarGruposPeriodosTiempo.resources
+D:\aprendiendo\Desarrollo\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarAgrupacion.resources
+D:\aprendiendo\Desarrollo\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarAreas.resources
+D:\aprendiendo\Desarrollo\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarClaveNom.resources
+D:\aprendiendo\Desarrollo\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarPeriodoTiempo.resources
+D:\aprendiendo\Desarrollo\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarPersona.resources
+D:\aprendiendo\Desarrollo\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.IncidenciasPorExpediente.resources
+D:\aprendiendo\Desarrollo\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Loggin.resources
+D:\aprendiendo\Desarrollo\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.MenuAdministracion.resources
+D:\aprendiendo\Desarrollo\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.MenuAdministracionReports.resources
+D:\aprendiendo\Desarrollo\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Properties.Resources.resources
+D:\aprendiendo\Desarrollo\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ReportesForm.resources
+D:\aprendiendo\Desarrollo\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.TrazasHoy.resources
+D:\aprendiendo\Desarrollo\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.GenerateResource.Cache
+D:\aprendiendo\Desarrollo\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe.licenses
+D:\aprendiendo\Desarrollo\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe.manifest
+D:\aprendiendo\Desarrollo\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.application
+D:\Projectos\incideAilin\INCIDE\INCIDE\bin\Debug\INCIDE.exe.config
+D:\Projectos\incideAilin\INCIDE\INCIDE\bin\Debug\INCIDE.exe.manifest
+D:\Projectos\incideAilin\INCIDE\INCIDE\bin\Debug\INCIDE.application
+D:\Projectos\incideAilin\INCIDE\INCIDE\bin\Debug\INCIDE.exe
+D:\Projectos\incideAilin\INCIDE\INCIDE\bin\Debug\INCIDE.pdb
+D:\Projectos\incideAilin\INCIDE\INCIDE\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projectos\incideAilin\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.ResolveComReference.cache
+D:\Projectos\incideAilin\INCIDE\INCIDE\obj\x86\Debug\INCIDE.AdminForm.resources
+D:\Projectos\incideAilin\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ControlesVisuales.ControlIncidencia.resources
+D:\Projectos\incideAilin\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Controles_Visuales.ControlPlanificacion.resources
+D:\Projectos\incideAilin\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ControlesVisuales.Control_Planificar_DNL.resources
+D:\Projectos\incideAilin\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Form1.resources
+D:\Projectos\incideAilin\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GenerarDBF.resources
+D:\Projectos\incideAilin\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestinarGruposPeriodosTiempo.resources
+D:\Projectos\incideAilin\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarAgrupacion.resources
+D:\Projectos\incideAilin\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarAreas.resources
+D:\Projectos\incideAilin\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarClaveNom.resources
+D:\Projectos\incideAilin\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarPeriodoTiempo.resources
+D:\Projectos\incideAilin\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarPersona.resources
+D:\Projectos\incideAilin\INCIDE\INCIDE\obj\x86\Debug\INCIDE.IncidenciasPorExpediente.resources
+D:\Projectos\incideAilin\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Loggin.resources
+D:\Projectos\incideAilin\INCIDE\INCIDE\obj\x86\Debug\INCIDE.MenuAdministracion.resources
+D:\Projectos\incideAilin\INCIDE\INCIDE\obj\x86\Debug\INCIDE.MenuAdministracionReports.resources
+D:\Projectos\incideAilin\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Properties.Resources.resources
+D:\Projectos\incideAilin\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ReportesForm.resources
+D:\Projectos\incideAilin\INCIDE\INCIDE\obj\x86\Debug\INCIDE.TrazasHoy.resources
+D:\Projectos\incideAilin\INCIDE\INCIDE\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projectos\incideAilin\INCIDE\INCIDE\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projectos\incideAilin\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe.licenses
+D:\Projectos\incideAilin\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe.manifest
+D:\Projectos\incideAilin\INCIDE\INCIDE\obj\x86\Debug\INCIDE.application
+D:\Projectos\incideAilin\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe
+D:\Projectos\incideAilin\INCIDE\INCIDE\obj\x86\Debug\INCIDE.pdb
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.ResolveComReference.cache
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GenerarXml.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.exe.config
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.exe.manifest
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.application
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.exe
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.pdb
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\bin\Debug\ControlDNL.dll
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\bin\Debug\ControlLibrary_DNL.dll
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\bin\Debug\WindowsFormsControlLibrary1.dll
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\bin\Debug\ControlDNL.pdb
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\bin\Debug\ControlLibrary_DNL.pdb
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\bin\Debug\WindowsFormsControlLibrary1.pdb
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.ResolveComReference.cache
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.AdminForm.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ControlesVisuales.ControlIncidencia.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Controles_Visuales.ControlPlanificacion.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ControlesVisuales.Control_Planificar_DNL.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Form1.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GenerarDBF.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GenerarXml.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestinarGruposPeriodosTiempo.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarAgrupacion.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarAreas.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarClaveNom.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarPeriodoTiempo.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarPersona.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.IncidenciasPorExpediente.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Loggin.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.MenuAdministracion.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.MenuAdministracionReports.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Properties.Resources.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ReportesForm.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.TrazasHoy.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.GenerateResource.Cache
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe.licenses
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe.manifest
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.application
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.pdb
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csprojResolveAssemblyReference.cache
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 6-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csprojResolveAssemblyReference.cache
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 6-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.ResolveComReference.cache
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 6-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.AdminForm.resources
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 6-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ControlesVisuales.ControlIncidencia.resources
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 6-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Controles_Visuales.ControlPlanificacion.resources
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 6-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ControlesVisuales.Control_Planificar_DNL.resources
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 6-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Form1.resources
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 6-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GenerarDBF.resources
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 6-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GenerarXml.resources
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 6-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestinarGruposPeriodosTiempo.resources
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 6-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarAgrupacion.resources
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 6-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarAreas.resources
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 6-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarClaveNom.resources
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 6-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarPeriodoTiempo.resources
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 6-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarPersona.resources
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 6-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.IncidenciasPorExpediente.resources
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 6-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Loggin.resources
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 6-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.MenuAdministracion.resources
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 6-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.MenuAdministracionReports.resources
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 6-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Properties.Resources.resources
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 6-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ReportesForm.resources
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 6-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.TrazasHoy.resources
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 6-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.GenerateResource.Cache
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 6-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe.licenses
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 6-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 6-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.pdb
+F:\Prácticas CIE\Nuevo Incide 9-7\INCIDE\INCIDE\bin\Debug\INCIDE.exe.config
+F:\Prácticas CIE\Nuevo Incide 9-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.ResolveComReference.cache
+F:\Prácticas CIE\Nuevo Incide 9-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe
+F:\Prácticas CIE\Nuevo Incide 9-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.pdb
+F:\Prácticas CIE\Nuevo Incide 9-7\INCIDE\INCIDE\bin\Debug\INCIDE.exe.manifest
+F:\Prácticas CIE\Nuevo Incide 9-7\INCIDE\INCIDE\bin\Debug\INCIDE.application
+F:\Prácticas CIE\Nuevo Incide 9-7\INCIDE\INCIDE\bin\Debug\INCIDE.exe
+F:\Prácticas CIE\Nuevo Incide 9-7\INCIDE\INCIDE\bin\Debug\INCIDE.pdb
+F:\Prácticas CIE\Nuevo Incide 9-7\INCIDE\INCIDE\bin\Debug\ControlDNL.dll
+F:\Prácticas CIE\Nuevo Incide 9-7\INCIDE\INCIDE\bin\Debug\ControlLibrary_DNL.dll
+F:\Prácticas CIE\Nuevo Incide 9-7\INCIDE\INCIDE\bin\Debug\WindowsFormsControlLibrary1.dll
+F:\Prácticas CIE\Nuevo Incide 9-7\INCIDE\INCIDE\bin\Debug\ControlDNL.pdb
+F:\Prácticas CIE\Nuevo Incide 9-7\INCIDE\INCIDE\bin\Debug\ControlLibrary_DNL.pdb
+F:\Prácticas CIE\Nuevo Incide 9-7\INCIDE\INCIDE\bin\Debug\WindowsFormsControlLibrary1.pdb
+F:\Prácticas CIE\Nuevo Incide 9-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csprojResolveAssemblyReference.cache
+F:\Prácticas CIE\Nuevo Incide 9-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.AdminForm.resources
+F:\Prácticas CIE\Nuevo Incide 9-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ControlesVisuales.ControlIncidencia.resources
+F:\Prácticas CIE\Nuevo Incide 9-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Controles_Visuales.ControlPlanificacion.resources
+F:\Prácticas CIE\Nuevo Incide 9-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ControlesVisuales.Control_Planificar_DNL.resources
+F:\Prácticas CIE\Nuevo Incide 9-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Form1.resources
+F:\Prácticas CIE\Nuevo Incide 9-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GenerarDBF.resources
+F:\Prácticas CIE\Nuevo Incide 9-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GenerarXml.resources
+F:\Prácticas CIE\Nuevo Incide 9-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestinarGruposPeriodosTiempo.resources
+F:\Prácticas CIE\Nuevo Incide 9-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarAgrupacion.resources
+F:\Prácticas CIE\Nuevo Incide 9-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarAreas.resources
+F:\Prácticas CIE\Nuevo Incide 9-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarClaveNom.resources
+F:\Prácticas CIE\Nuevo Incide 9-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarPeriodoTiempo.resources
+F:\Prácticas CIE\Nuevo Incide 9-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarPersona.resources
+F:\Prácticas CIE\Nuevo Incide 9-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.IncidenciasPorExpediente.resources
+F:\Prácticas CIE\Nuevo Incide 9-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Loggin.resources
+F:\Prácticas CIE\Nuevo Incide 9-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.MenuAdministracion.resources
+F:\Prácticas CIE\Nuevo Incide 9-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.MenuAdministracionReports.resources
+F:\Prácticas CIE\Nuevo Incide 9-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Properties.Resources.resources
+F:\Prácticas CIE\Nuevo Incide 9-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ReportesForm.resources
+F:\Prácticas CIE\Nuevo Incide 9-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.TrazasHoy.resources
+F:\Prácticas CIE\Nuevo Incide 9-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.GenerateResource.Cache
+F:\Prácticas CIE\Nuevo Incide 9-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe.licenses
+F:\Prácticas CIE\Nuevo Incide 9-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe.manifest
+F:\Prácticas CIE\Nuevo Incide 9-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.application
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 9-7 Tarde\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csprojResolveAssemblyReference.cache
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 9-7 Tarde\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.ResolveComReference.cache
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 9-7 Tarde\INCIDE\INCIDE\obj\x86\Debug\INCIDE.AdminForm.resources
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 9-7 Tarde\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ControlesVisuales.ControlIncidencia.resources
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 9-7 Tarde\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Controles_Visuales.ControlPlanificacion.resources
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 9-7 Tarde\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ControlesVisuales.Control_Planificar_DNL.resources
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 9-7 Tarde\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Form1.resources
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 9-7 Tarde\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GenerarDBF.resources
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 9-7 Tarde\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GenerarXml.resources
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 9-7 Tarde\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestinarGruposPeriodosTiempo.resources
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 9-7 Tarde\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarAgrupacion.resources
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 9-7 Tarde\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarAreas.resources
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 9-7 Tarde\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarClaveNom.resources
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 9-7 Tarde\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarPeriodoTiempo.resources
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 9-7 Tarde\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarPersona.resources
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 9-7 Tarde\INCIDE\INCIDE\obj\x86\Debug\INCIDE.IncidenciasPorExpediente.resources
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 9-7 Tarde\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Loggin.resources
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 9-7 Tarde\INCIDE\INCIDE\obj\x86\Debug\INCIDE.MenuAdministracion.resources
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 9-7 Tarde\INCIDE\INCIDE\obj\x86\Debug\INCIDE.MenuAdministracionReports.resources
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 9-7 Tarde\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Properties.Resources.resources
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 9-7 Tarde\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ReportesForm.resources
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 9-7 Tarde\INCIDE\INCIDE\obj\x86\Debug\INCIDE.TrazasHoy.resources
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 9-7 Tarde\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.GenerateResource.Cache
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 9-7 Tarde\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe.licenses
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 9-7 Tarde\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe
+C:\Users\Tigre\Documents\MiSegundo\Practica de produccion CIE\Nuevo Incide 9-7 Tarde\INCIDE\INCIDE\obj\x86\Debug\INCIDE.pdb
+F:\Prácticas CIE\Nuevo Incide 11-7\INCIDE\INCIDE\bin\Debug\INCIDE.exe.config
+F:\Prácticas CIE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.ResolveComReference.cache
+F:\Prácticas CIE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe
+F:\Prácticas CIE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.pdb
+F:\Prácticas CIE\Nuevo Incide 11-7\INCIDE\INCIDE\bin\Debug\INCIDE.exe.manifest
+F:\Prácticas CIE\Nuevo Incide 11-7\INCIDE\INCIDE\bin\Debug\INCIDE.application
+F:\Prácticas CIE\Nuevo Incide 11-7\INCIDE\INCIDE\bin\Debug\INCIDE.exe
+F:\Prácticas CIE\Nuevo Incide 11-7\INCIDE\INCIDE\bin\Debug\INCIDE.pdb
+F:\Prácticas CIE\Nuevo Incide 11-7\INCIDE\INCIDE\bin\Debug\ControlDNL.dll
+F:\Prácticas CIE\Nuevo Incide 11-7\INCIDE\INCIDE\bin\Debug\ControlLibrary_DNL.dll
+F:\Prácticas CIE\Nuevo Incide 11-7\INCIDE\INCIDE\bin\Debug\WindowsFormsControlLibrary1.dll
+F:\Prácticas CIE\Nuevo Incide 11-7\INCIDE\INCIDE\bin\Debug\ControlDNL.pdb
+F:\Prácticas CIE\Nuevo Incide 11-7\INCIDE\INCIDE\bin\Debug\ControlLibrary_DNL.pdb
+F:\Prácticas CIE\Nuevo Incide 11-7\INCIDE\INCIDE\bin\Debug\WindowsFormsControlLibrary1.pdb
+F:\Prácticas CIE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csprojResolveAssemblyReference.cache
+F:\Prácticas CIE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.AdminForm.resources
+F:\Prácticas CIE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ControlesVisuales.ControlIncidencia.resources
+F:\Prácticas CIE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Controles_Visuales.ControlPlanificacion.resources
+F:\Prácticas CIE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ControlesVisuales.Control_Planificar_DNL.resources
+F:\Prácticas CIE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Form1.resources
+F:\Prácticas CIE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GenerarDBF.resources
+F:\Prácticas CIE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GenerarXml.resources
+F:\Prácticas CIE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestinarGruposPeriodosTiempo.resources
+F:\Prácticas CIE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarAgrupacion.resources
+F:\Prácticas CIE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarAreas.resources
+F:\Prácticas CIE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarClaveNom.resources
+F:\Prácticas CIE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarPeriodoTiempo.resources
+F:\Prácticas CIE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarPersona.resources
+F:\Prácticas CIE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.IncidenciasPorExpediente.resources
+F:\Prácticas CIE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Loggin.resources
+F:\Prácticas CIE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.MenuAdministracion.resources
+F:\Prácticas CIE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.MenuAdministracionReports.resources
+F:\Prácticas CIE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Properties.Resources.resources
+F:\Prácticas CIE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ReportesForm.resources
+F:\Prácticas CIE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.TrazasHoy.resources
+F:\Prácticas CIE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.GenerateResource.Cache
+F:\Prácticas CIE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe.licenses
+F:\Prácticas CIE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe.manifest
+F:\Prácticas CIE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.application
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\bin\Debug\INCIDE.exe.config
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.ResolveComReference.cache
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.pdb
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csprojResolveAssemblyReference.cache
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.AdminForm.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ControlesVisuales.ControlIncidencia.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Controles_Visuales.ControlPlanificacion.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ControlesVisuales.Control_Planificar_DNL.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Form1.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GenerarDBF.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GenerarXml.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestinarGruposPeriodosTiempo.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarAgrupacion.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarAreas.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarClaveNom.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarPeriodoTiempo.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarPersona.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.IncidenciasPorExpediente.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Loggin.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.MenuAdministracion.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.MenuAdministracionReports.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Properties.Resources.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ReportesForm.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.TrazasHoy.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.GenerateResource.Cache
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe.licenses
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\bin\Debug\INCIDE.exe.manifest
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\bin\Debug\INCIDE.application
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\bin\Debug\INCIDE.exe
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\bin\Debug\INCIDE.pdb
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\bin\Debug\ControlDNL.dll
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\bin\Debug\ControlLibrary_DNL.dll
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\bin\Debug\WindowsFormsControlLibrary1.dll
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\bin\Debug\ControlDNL.pdb
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\bin\Debug\ControlLibrary_DNL.pdb
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\bin\Debug\WindowsFormsControlLibrary1.pdb
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe.manifest
+D:\Proyecto nuevo INCIDE\Nuevo Incide 11-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.application
+D:\Proyecto nuevo INCIDE\Nuevo Incide 12-7\INCIDE\INCIDE\bin\Debug\INCIDE.exe.config
+D:\Proyecto nuevo INCIDE\Nuevo Incide 12-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.ResolveComReference.cache
+D:\Proyecto nuevo INCIDE\Nuevo Incide 12-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe
+D:\Proyecto nuevo INCIDE\Nuevo Incide 12-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.pdb
+D:\Proyecto nuevo INCIDE\Nuevo Incide 12-7\INCIDE\INCIDE\bin\Debug\INCIDE.exe.manifest
+D:\Proyecto nuevo INCIDE\Nuevo Incide 12-7\INCIDE\INCIDE\bin\Debug\INCIDE.application
+D:\Proyecto nuevo INCIDE\Nuevo Incide 12-7\INCIDE\INCIDE\bin\Debug\INCIDE.exe
+D:\Proyecto nuevo INCIDE\Nuevo Incide 12-7\INCIDE\INCIDE\bin\Debug\INCIDE.pdb
+D:\Proyecto nuevo INCIDE\Nuevo Incide 12-7\INCIDE\INCIDE\bin\Debug\ControlDNL.dll
+D:\Proyecto nuevo INCIDE\Nuevo Incide 12-7\INCIDE\INCIDE\bin\Debug\ControlLibrary_DNL.dll
+D:\Proyecto nuevo INCIDE\Nuevo Incide 12-7\INCIDE\INCIDE\bin\Debug\WindowsFormsControlLibrary1.dll
+D:\Proyecto nuevo INCIDE\Nuevo Incide 12-7\INCIDE\INCIDE\bin\Debug\ControlDNL.pdb
+D:\Proyecto nuevo INCIDE\Nuevo Incide 12-7\INCIDE\INCIDE\bin\Debug\ControlLibrary_DNL.pdb
+D:\Proyecto nuevo INCIDE\Nuevo Incide 12-7\INCIDE\INCIDE\bin\Debug\WindowsFormsControlLibrary1.pdb
+D:\Proyecto nuevo INCIDE\Nuevo Incide 12-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csprojResolveAssemblyReference.cache
+D:\Proyecto nuevo INCIDE\Nuevo Incide 12-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.AdminForm.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 12-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ControlesVisuales.ControlIncidencia.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 12-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Controles_Visuales.ControlPlanificacion.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 12-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ControlesVisuales.Control_Planificar_DNL.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 12-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Form1.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 12-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GenerarDBF.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 12-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GenerarXml.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 12-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestinarGruposPeriodosTiempo.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 12-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarAgrupacion.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 12-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarAreas.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 12-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarClaveNom.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 12-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarPeriodoTiempo.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 12-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarPersona.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 12-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.IncidenciasPorExpediente.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 12-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Loggin.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 12-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.MenuAdministracion.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 12-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.MenuAdministracionReports.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 12-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Properties.Resources.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 12-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ReportesForm.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 12-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.TrazasHoy.resources
+D:\Proyecto nuevo INCIDE\Nuevo Incide 12-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.GenerateResource.Cache
+D:\Proyecto nuevo INCIDE\Nuevo Incide 12-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe.licenses
+D:\Proyecto nuevo INCIDE\Nuevo Incide 12-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe.manifest
+D:\Proyecto nuevo INCIDE\Nuevo Incide 12-7\INCIDE\INCIDE\obj\x86\Debug\INCIDE.application
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.exe.config
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.ResolveComReference.cache
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.pdb
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.exe.manifest
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.application
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.exe
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.pdb
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\bin\Debug\ControlDNL.dll
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\bin\Debug\ControlLibrary_DNL.dll
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\bin\Debug\WindowsFormsControlLibrary1.dll
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\bin\Debug\ControlDNL.pdb
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\bin\Debug\ControlLibrary_DNL.pdb
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\bin\Debug\WindowsFormsControlLibrary1.pdb
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csprojResolveAssemblyReference.cache
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.AdminForm.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ControlesVisuales.ControlIncidencia.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Controles_Visuales.ControlPlanificacion.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ControlesVisuales.Control_Planificar_DNL.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Form1.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GenerarDBF.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GenerarXml.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestinarGruposPeriodosTiempo.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarAgrupacion.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarAreas.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarClaveNom.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarPeriodoTiempo.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarPersona.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.IncidenciasPorExpediente.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Loggin.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.MenuAdministracion.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.MenuAdministracionReports.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Properties.Resources.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ReportesForm.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.TrazasHoy.resources
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.GenerateResource.Cache
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe.licenses
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe.manifest
+D:\Controlador de versiones\Sistemas\INCIDE\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.application
+C:\Users\joan.oceguera\Documents\Visual Studio 2017\Projects\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.ResolveComReference.cache
+C:\Users\joan.oceguera\Documents\Visual Studio 2017\Projects\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.AdminForm.resources
+C:\Users\joan.oceguera\Documents\Visual Studio 2017\Projects\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ControlesVisuales.ControlIncidencia.resources
+C:\Users\joan.oceguera\Documents\Visual Studio 2017\Projects\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Controles_Visuales.ControlPlanificacion.resources
+C:\Users\joan.oceguera\Documents\Visual Studio 2017\Projects\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ControlesVisuales.Control_Planificar_DNL.resources
+C:\Users\joan.oceguera\Documents\Visual Studio 2017\Projects\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Form1.resources
+C:\Users\joan.oceguera\Documents\Visual Studio 2017\Projects\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GenerarDBF.resources
+C:\Users\joan.oceguera\Documents\Visual Studio 2017\Projects\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GenerarXml.resources
+C:\Users\joan.oceguera\Documents\Visual Studio 2017\Projects\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestinarGruposPeriodosTiempo.resources
+C:\Users\joan.oceguera\Documents\Visual Studio 2017\Projects\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarAgrupacion.resources
+C:\Users\joan.oceguera\Documents\Visual Studio 2017\Projects\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarAreas.resources
+C:\Users\joan.oceguera\Documents\Visual Studio 2017\Projects\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarClaveNom.resources
+C:\Users\joan.oceguera\Documents\Visual Studio 2017\Projects\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarPeriodoTiempo.resources
+C:\Users\joan.oceguera\Documents\Visual Studio 2017\Projects\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarPersona.resources
+C:\Users\joan.oceguera\Documents\Visual Studio 2017\Projects\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.IncidenciasPorExpediente.resources
+C:\Users\joan.oceguera\Documents\Visual Studio 2017\Projects\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Loggin.resources
+C:\Users\joan.oceguera\Documents\Visual Studio 2017\Projects\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.MenuAdministracion.resources
+C:\Users\joan.oceguera\Documents\Visual Studio 2017\Projects\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.MenuAdministracionReports.resources
+C:\Users\joan.oceguera\Documents\Visual Studio 2017\Projects\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Properties.Resources.resources
+C:\Users\joan.oceguera\Documents\Visual Studio 2017\Projects\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ReportesForm.resources
+C:\Users\joan.oceguera\Documents\Visual Studio 2017\Projects\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.TrazasHoy.resources
+C:\Users\joan.oceguera\Documents\Visual Studio 2017\Projects\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.GenerateResource.Cache
+C:\Users\joan.oceguera\Documents\Visual Studio 2017\Projects\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe.licenses
+C:\Users\joan.oceguera\Documents\Visual Studio 2017\Projects\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe
+C:\Users\joan.oceguera\Documents\Visual Studio 2017\Projects\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.pdb
+C:\Users\joan.oceguera\Documents\Visual Studio 2017\Projects\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.exe.config
+C:\Users\joan.oceguera\Documents\Visual Studio 2017\Projects\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.exe.manifest
+C:\Users\joan.oceguera\Documents\Visual Studio 2017\Projects\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.application
+C:\Users\joan.oceguera\Documents\Visual Studio 2017\Projects\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.exe
+C:\Users\joan.oceguera\Documents\Visual Studio 2017\Projects\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.pdb
+C:\Users\joan.oceguera\Documents\Visual Studio 2017\Projects\INCIDE\INCIDE\INCIDE\bin\Debug\ControlDNL.dll
+C:\Users\joan.oceguera\Documents\Visual Studio 2017\Projects\INCIDE\INCIDE\INCIDE\bin\Debug\ControlLibrary_DNL.dll
+C:\Users\joan.oceguera\Documents\Visual Studio 2017\Projects\INCIDE\INCIDE\INCIDE\bin\Debug\Telerik.WinControls.dll
+C:\Users\joan.oceguera\Documents\Visual Studio 2017\Projects\INCIDE\INCIDE\INCIDE\bin\Debug\Telerik.WinControls.GridView.dll
+C:\Users\joan.oceguera\Documents\Visual Studio 2017\Projects\INCIDE\INCIDE\INCIDE\bin\Debug\Telerik.WinControls.Themes.Office2007Black.dll
+C:\Users\joan.oceguera\Documents\Visual Studio 2017\Projects\INCIDE\INCIDE\INCIDE\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\joan.oceguera\Documents\Visual Studio 2017\Projects\INCIDE\INCIDE\INCIDE\bin\Debug\TelerikCommon.dll
+C:\Users\joan.oceguera\Documents\Visual Studio 2017\Projects\INCIDE\INCIDE\INCIDE\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\joan.oceguera\Documents\Visual Studio 2017\Projects\INCIDE\INCIDE\INCIDE\bin\Debug\ControlDNL.pdb
+C:\Users\joan.oceguera\Documents\Visual Studio 2017\Projects\INCIDE\INCIDE\INCIDE\bin\Debug\ControlLibrary_DNL.pdb
+C:\Users\joan.oceguera\Documents\Visual Studio 2017\Projects\INCIDE\INCIDE\INCIDE\bin\Debug\Telerik.WinControls.xml
+C:\Users\joan.oceguera\Documents\Visual Studio 2017\Projects\INCIDE\INCIDE\INCIDE\bin\Debug\Telerik.WinControls.GridView.xml
+C:\Users\joan.oceguera\Documents\Visual Studio 2017\Projects\INCIDE\INCIDE\INCIDE\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\joan.oceguera\Documents\Visual Studio 2017\Projects\INCIDE\INCIDE\INCIDE\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\joan.oceguera\Documents\Visual Studio 2017\Projects\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe.manifest
+C:\Users\joan.oceguera\Documents\Visual Studio 2017\Projects\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.application
+C:\Users\joan.oceguera\Documents\Visual Studio 2017\Projects\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csprojAssemblyReference.cache
+C:\Users\joan.oceguera\Documents\Visual Studio 2017\Projects\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.CoreCompileInputs.cache
+C:\Users\joan.oceguera\Documents\Visual Studio 2017\Projects\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.CopyComplete
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.exe.config
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.exe.manifest
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.application
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.exe
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.pdb
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\bin\Debug\ControlDNL.dll
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\bin\Debug\ControlLibrary_DNL.dll
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\bin\Debug\Telerik.WinControls.dll
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\bin\Debug\Telerik.WinControls.GridView.dll
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\bin\Debug\Telerik.WinControls.Themes.Office2007Black.dll
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\bin\Debug\TelerikCommon.dll
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\bin\Debug\ControlDNL.pdb
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\bin\Debug\ControlLibrary_DNL.pdb
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\bin\Debug\Telerik.WinControls.xml
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\bin\Debug\Telerik.WinControls.GridView.xml
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csprojAssemblyReference.cache
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.ResolveComReference.cache
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.AdminForm.resources
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ControlesVisuales.ControlIncidencia.resources
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Controles_Visuales.ControlPlanificacion.resources
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ControlesVisuales.Control_Planificar_DNL.resources
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Form1.resources
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GenerarDBF.resources
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GenerarXml.resources
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestinarGruposPeriodosTiempo.resources
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarAgrupacion.resources
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarAreas.resources
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarClaveNom.resources
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarPeriodoTiempo.resources
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarPersona.resources
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.IncidenciasPorExpediente.resources
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Loggin.resources
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.MenuAdministracion.resources
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.MenuAdministracionReports.resources
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Properties.Resources.resources
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ReportesForm.resources
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.TrazasHoy.resources
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.GenerateResource.cache
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe.licenses
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe.manifest
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.application
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.CopyComplete
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.pdb
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\bin\Debug\Telerik.WinControls.Themes.Office2010Black.dll
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarGrupoEvaluacion.resources
+F:\Datos\Trabajo\Casa 10-11-2019\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.exe.config
+F:\Datos\Trabajo\Casa 10-11-2019\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.exe.manifest
+F:\Datos\Trabajo\Casa 10-11-2019\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.application
+F:\Datos\Trabajo\Casa 10-11-2019\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.exe
+F:\Datos\Trabajo\Casa 10-11-2019\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.pdb
+F:\Datos\Trabajo\Casa 10-11-2019\INCIDE\INCIDE\INCIDE\bin\Debug\ControlDNL.dll
+F:\Datos\Trabajo\Casa 10-11-2019\INCIDE\INCIDE\INCIDE\bin\Debug\ControlLibrary_DNL.dll
+F:\Datos\Trabajo\Casa 10-11-2019\INCIDE\INCIDE\INCIDE\bin\Debug\WindowsFormsControlLibrary1.dll
+F:\Datos\Trabajo\Casa 10-11-2019\INCIDE\INCIDE\INCIDE\bin\Debug\ControlDNL.pdb
+F:\Datos\Trabajo\Casa 10-11-2019\INCIDE\INCIDE\INCIDE\bin\Debug\ControlLibrary_DNL.pdb
+F:\Datos\Trabajo\Casa 10-11-2019\INCIDE\INCIDE\INCIDE\bin\Debug\Telerik.WinControls.xml
+F:\Datos\Trabajo\Casa 10-11-2019\INCIDE\INCIDE\INCIDE\bin\Debug\Telerik.WinControls.GridView.xml
+F:\Datos\Trabajo\Casa 10-11-2019\INCIDE\INCIDE\INCIDE\bin\Debug\Telerik.WinControls.UI.xml
+F:\Datos\Trabajo\Casa 10-11-2019\INCIDE\INCIDE\INCIDE\bin\Debug\WindowsFormsControlLibrary1.pdb
+F:\Datos\Trabajo\Casa 10-11-2019\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csprojAssemblyReference.cache
+F:\Datos\Trabajo\Casa 10-11-2019\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.ResolveComReference.cache
+F:\Datos\Trabajo\Casa 10-11-2019\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.AdminForm.resources
+F:\Datos\Trabajo\Casa 10-11-2019\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ControlesVisuales.ControlIncidencia.resources
+F:\Datos\Trabajo\Casa 10-11-2019\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Controles_Visuales.ControlPlanificacion.resources
+F:\Datos\Trabajo\Casa 10-11-2019\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ControlesVisuales.Control_Planificar_DNL.resources
+F:\Datos\Trabajo\Casa 10-11-2019\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Form1.resources
+F:\Datos\Trabajo\Casa 10-11-2019\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GenerarDBF.resources
+F:\Datos\Trabajo\Casa 10-11-2019\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GenerarXml.resources
+F:\Datos\Trabajo\Casa 10-11-2019\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestinarGruposPeriodosTiempo.resources
+F:\Datos\Trabajo\Casa 10-11-2019\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarAgrupacion.resources
+F:\Datos\Trabajo\Casa 10-11-2019\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarAreas.resources
+F:\Datos\Trabajo\Casa 10-11-2019\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarClaveNom.resources
+F:\Datos\Trabajo\Casa 10-11-2019\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarGrupoEvaluacion.resources
+F:\Datos\Trabajo\Casa 10-11-2019\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarPeriodoTiempo.resources
+F:\Datos\Trabajo\Casa 10-11-2019\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarPersona.resources
+F:\Datos\Trabajo\Casa 10-11-2019\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.IncidenciasPorExpediente.resources
+F:\Datos\Trabajo\Casa 10-11-2019\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Loggin.resources
+F:\Datos\Trabajo\Casa 10-11-2019\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.MenuAdministracion.resources
+F:\Datos\Trabajo\Casa 10-11-2019\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.MenuAdministracionReports.resources
+F:\Datos\Trabajo\Casa 10-11-2019\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Properties.Resources.resources
+F:\Datos\Trabajo\Casa 10-11-2019\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ReportesForm.resources
+F:\Datos\Trabajo\Casa 10-11-2019\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.TrazasHoy.resources
+F:\Datos\Trabajo\Casa 10-11-2019\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.GenerateResource.cache
+F:\Datos\Trabajo\Casa 10-11-2019\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe.licenses
+F:\Datos\Trabajo\Casa 10-11-2019\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe.manifest
+F:\Datos\Trabajo\Casa 10-11-2019\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.application
+F:\Datos\Trabajo\Casa 10-11-2019\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.CopyComplete
+F:\Datos\Trabajo\Casa 10-11-2019\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe
+F:\Datos\Trabajo\Casa 10-11-2019\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.pdb
+F:\Datos\Trabajo\Casa 10-11-2019\INCIDE\INCIDE\INCIDE\bin\Debug\ClassLibrary2.dll
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.exe.config
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.exe.manifest
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.application
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.exe
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.pdb
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\bin\Debug\ControlDNL.dll
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\bin\Debug\ControlLibrary_DNL.dll
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\bin\Debug\ControlDNL.pdb
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\bin\Debug\ControlLibrary_DNL.pdb
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\bin\Debug\Telerik.WinControls.xml
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\bin\Debug\Telerik.WinControls.GridView.xml
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csprojAssemblyReference.cache
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.ResolveComReference.cache
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.AdminForm.resources
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ControlesVisuales.ControlIncidencia.resources
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Controles_Visuales.ControlPlanificacion.resources
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ControlesVisuales.Control_Planificar_DNL.resources
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Form1.resources
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GenerarDBF.resources
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GenerarXml.resources
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestinarGruposPeriodosTiempo.resources
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarAgrupacion.resources
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarAreas.resources
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarClaveNom.resources
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarGrupoEvaluacion.resources
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarPeriodoTiempo.resources
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarPersona.resources
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.IncidenciasPorExpediente.resources
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Loggin.resources
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.MenuAdministracion.resources
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.MenuAdministracionReports.resources
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Properties.Resources.resources
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ReportesForm.resources
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.TrazasHoy.resources
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.GenerateResource.cache
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe.licenses
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe.manifest
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.application
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.CopyComplete
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.pdb
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.exe.config
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.exe.manifest
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.application
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.exe
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.pdb
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\bin\Debug\ControlDNL.dll
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\bin\Debug\ControlLibrary_DNL.dll
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\bin\Debug\Telerik.WinControls.dll
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\bin\Debug\Telerik.WinControls.GridView.dll
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\bin\Debug\Telerik.WinControls.Themes.Office2007Black.dll
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\bin\Debug\Telerik.WinControls.Themes.Office2010Black.dll
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\bin\Debug\Telerik.WinControls.UI.dll
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\bin\Debug\TelerikCommon.dll
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\bin\Debug\WindowsFormsControlLibrary1.dll
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\bin\Debug\ControlDNL.pdb
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\bin\Debug\ControlLibrary_DNL.pdb
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\bin\Debug\Telerik.WinControls.xml
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\bin\Debug\Telerik.WinControls.GridView.xml
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\bin\Debug\Telerik.WinControls.UI.xml
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\bin\Debug\WindowsFormsControlLibrary1.pdb
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csprojAssemblyReference.cache
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.ResolveComReference.cache
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.AdminForm.resources
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ControlesVisuales.ControlIncidencia.resources
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Controles_Visuales.ControlPlanificacion.resources
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ControlesVisuales.Control_Planificar_DNL.resources
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Form1.resources
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GenerarDBF.resources
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GenerarXml.resources
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestinarGruposPeriodosTiempo.resources
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarAgrupacion.resources
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarAreas.resources
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarClaveNom.resources
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarGrupoEvaluacion.resources
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarPeriodoTiempo.resources
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarPersona.resources
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.IncidenciasPorExpediente.resources
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Loggin.resources
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.MenuAdministracion.resources
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.MenuAdministracionReports.resources
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Properties.Resources.resources
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ReportesForm.resources
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.TrazasHoy.resources
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.GenerateResource.cache
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe.licenses
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.CoreCompileInputs.cache
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe.manifest
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.application
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.CopyComplete
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.pdb
+O:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.TrabajadoresForm.resources
+E:\Datos\3DS\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.exe.config
+E:\Datos\3DS\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.exe.manifest
+E:\Datos\3DS\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.application
+E:\Datos\3DS\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.exe
+E:\Datos\3DS\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.pdb
+E:\Datos\3DS\INCIDE\INCIDE\INCIDE\bin\Debug\ControlDNL.dll
+E:\Datos\3DS\INCIDE\INCIDE\INCIDE\bin\Debug\ControlLibrary_DNL.dll
+E:\Datos\3DS\INCIDE\INCIDE\INCIDE\bin\Debug\WindowsFormsControlLibrary1.dll
+E:\Datos\3DS\INCIDE\INCIDE\INCIDE\bin\Debug\ControlDNL.pdb
+E:\Datos\3DS\INCIDE\INCIDE\INCIDE\bin\Debug\ControlLibrary_DNL.pdb
+E:\Datos\3DS\INCIDE\INCIDE\INCIDE\bin\Debug\Telerik.WinControls.xml
+E:\Datos\3DS\INCIDE\INCIDE\INCIDE\bin\Debug\Telerik.WinControls.GridView.xml
+E:\Datos\3DS\INCIDE\INCIDE\INCIDE\bin\Debug\Telerik.WinControls.UI.xml
+E:\Datos\3DS\INCIDE\INCIDE\INCIDE\bin\Debug\WindowsFormsControlLibrary1.pdb
+E:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csprojAssemblyReference.cache
+E:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.ResolveComReference.cache
+E:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.AdminForm.resources
+E:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ControlesVisuales.ControlIncidencia.resources
+E:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Controles_Visuales.ControlPlanificacion.resources
+E:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ControlesVisuales.Control_Planificar_DNL.resources
+E:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Form1.resources
+E:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GenerarDBF.resources
+E:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GenerarXml.resources
+E:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestinarGruposPeriodosTiempo.resources
+E:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarAgrupacion.resources
+E:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarAreas.resources
+E:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarClaveNom.resources
+E:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarGrupoEvaluacion.resources
+E:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarPeriodoTiempo.resources
+E:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarPersona.resources
+E:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.IncidenciasPorExpediente.resources
+E:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Loggin.resources
+E:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.MenuAdministracion.resources
+E:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.MenuAdministracionReports.resources
+E:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Properties.Resources.resources
+E:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ReportesForm.resources
+E:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.TrabajadoresForm.resources
+E:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.TrazasHoy.resources
+E:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.GenerateResource.cache
+E:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe.licenses
+E:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe.manifest
+E:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.application
+E:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.CopyComplete
+E:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe
+E:\Datos\3DS\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.pdb
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.TrabajadoresForm.resources
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.TrabajadoresForm.resources
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.RegistroForm.resources
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.AltasBajasForm.resources
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.CategorizacionForm.resources
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.AsistenciaForm.resources
+D:\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.exe.config
+D:\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.exe.manifest
+D:\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.application
+D:\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.exe
+D:\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.pdb
+D:\INCIDE\INCIDE\INCIDE\bin\Debug\ControlDNL.dll
+D:\INCIDE\INCIDE\INCIDE\bin\Debug\ControlLibrary_DNL.dll
+D:\INCIDE\INCIDE\INCIDE\bin\Debug\WindowsFormsControlLibrary1.dll
+D:\INCIDE\INCIDE\INCIDE\bin\Debug\ControlDNL.pdb
+D:\INCIDE\INCIDE\INCIDE\bin\Debug\ControlLibrary_DNL.pdb
+D:\INCIDE\INCIDE\INCIDE\bin\Debug\Telerik.WinControls.xml
+D:\INCIDE\INCIDE\INCIDE\bin\Debug\Telerik.WinControls.GridView.xml
+D:\INCIDE\INCIDE\INCIDE\bin\Debug\Telerik.WinControls.UI.xml
+D:\INCIDE\INCIDE\INCIDE\bin\Debug\WindowsFormsControlLibrary1.pdb
+D:\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csprojAssemblyReference.cache
+D:\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.ResolveComReference.cache
+D:\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.AdminForm.resources
+D:\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.AltasBajasForm.resources
+D:\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.AsistenciaForm.resources
+D:\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.CategorizacionForm.resources
+D:\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ControlesVisuales.ControlIncidencia.resources
+D:\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Controles_Visuales.ControlPlanificacion.resources
+D:\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ControlesVisuales.Control_Planificar_DNL.resources
+D:\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Form1.resources
+D:\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GenerarDBF.resources
+D:\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GenerarXml.resources
+D:\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestinarGruposPeriodosTiempo.resources
+D:\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarAgrupacion.resources
+D:\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarAreas.resources
+D:\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarClaveNom.resources
+D:\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarGrupoEvaluacion.resources
+D:\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarPeriodoTiempo.resources
+D:\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarPersona.resources
+D:\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.IncidenciasPorExpediente.resources
+D:\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Loggin.resources
+D:\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.MenuAdministracion.resources
+D:\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.MenuAdministracionReports.resources
+D:\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Properties.Resources.resources
+D:\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.RegistroForm.resources
+D:\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ReportesForm.resources
+D:\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.TrabajadoresForm.resources
+D:\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.TrazasHoy.resources
+D:\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.GenerateResource.cache
+D:\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe.licenses
+D:\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.CoreCompileInputs.cache
+D:\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe.manifest
+D:\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.application
+D:\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.CopyComplete
+D:\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe
+D:\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.pdb
+C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.AsistenciaMesForm.resources

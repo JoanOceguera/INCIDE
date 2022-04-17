@@ -1,0 +1,32 @@
+D:\Controlador de versiones\Sistemas\INCIDE\Controles\ControlIncidenciaFuera\ControlIncidenciaFuera\bin\Debug\ControlIncidenciaFuera.dll
+D:\Controlador de versiones\Sistemas\INCIDE\Controles\ControlIncidenciaFuera\ControlIncidenciaFuera\bin\Debug\ControlIncidenciaFuera.pdb
+D:\Controlador de versiones\Sistemas\INCIDE\Controles\ControlIncidenciaFuera\ControlIncidenciaFuera\obj\Debug\ControlIncidenciaFuera.ControlJornada.resources
+D:\Controlador de versiones\Sistemas\INCIDE\Controles\ControlIncidenciaFuera\ControlIncidenciaFuera\obj\Debug\ControlIncidenciaFuera.csproj.GenerateResource.Cache
+D:\Controlador de versiones\Sistemas\INCIDE\Controles\ControlIncidenciaFuera\ControlIncidenciaFuera\obj\Debug\ControlIncidenciaFuera.dll
+D:\Controlador de versiones\Sistemas\INCIDE\Controles\ControlIncidenciaFuera\ControlIncidenciaFuera\obj\Debug\ControlIncidenciaFuera.pdb
+D:\Controlador de versiones\Sistemas\INCIDE\Controles\ControlIncidenciaFuera\ControlIncidenciaFuera\obj\Debug\ControlIncidenciaFuera.csprojResolveAssemblyReference.cache
+\\infanalista6\INCIDE\Controles\ControlIncidenciaFuera\ControlIncidenciaFuera\bin\Debug\ControlIncidenciaFuera.dll
+\\infanalista6\INCIDE\Controles\ControlIncidenciaFuera\ControlIncidenciaFuera\bin\Debug\ControlIncidenciaFuera.pdb
+\\infanalista6\INCIDE\Controles\ControlIncidenciaFuera\ControlIncidenciaFuera\bin\Debug\libreria_Incidencia_Dentro.dll
+\\infanalista6\INCIDE\Controles\ControlIncidenciaFuera\ControlIncidenciaFuera\bin\Debug\libreria_Incidencia_Dentro.pdb
+\\infanalista6\INCIDE\Controles\ControlIncidenciaFuera\ControlIncidenciaFuera\obj\Debug\ControlIncidenciaFuera.ControlJornada.resources
+\\infanalista6\INCIDE\Controles\ControlIncidenciaFuera\ControlIncidenciaFuera\obj\Debug\ControlIncidenciaFuera.csproj.GenerateResource.Cache
+\\infanalista6\INCIDE\Controles\ControlIncidenciaFuera\ControlIncidenciaFuera\obj\Debug\ControlIncidenciaFuera.dll
+\\infanalista6\INCIDE\Controles\ControlIncidenciaFuera\ControlIncidenciaFuera\obj\Debug\ControlIncidenciaFuera.pdb
+D:\Projectos\incideAilin\ControlIncidenciaFuera\ControlIncidenciaFuera\bin\Debug\ControlIncidenciaFuera.dll
+D:\Projectos\incideAilin\ControlIncidenciaFuera\ControlIncidenciaFuera\bin\Debug\ControlIncidenciaFuera.pdb
+D:\Projectos\incideAilin\ControlIncidenciaFuera\ControlIncidenciaFuera\obj\Debug\ControlIncidenciaFuera.ControlJornada.resources
+D:\Projectos\incideAilin\ControlIncidenciaFuera\ControlIncidenciaFuera\obj\Debug\ControlIncidenciaFuera.csproj.GenerateResource.Cache
+D:\Projectos\incideAilin\ControlIncidenciaFuera\ControlIncidenciaFuera\obj\Debug\ControlIncidenciaFuera.dll
+D:\Projectos\incideAilin\ControlIncidenciaFuera\ControlIncidenciaFuera\obj\Debug\ControlIncidenciaFuera.pdb
+D:\Controlador de versiones\Sistemas\INCIDE\Controles\ControlIncidenciaFuera\ControlIncidenciaFuera\bin\Debug\libreria_Incidencia_Dentro.dll
+D:\Controlador de versiones\Sistemas\INCIDE\Controles\ControlIncidenciaFuera\ControlIncidenciaFuera\bin\Debug\libreria_Incidencia_Dentro.pdb
+D:\Projectos\incideAilin\versiones\DentroFuera 10-11-2015\ControlIncidenciaFuera\ControlIncidenciaFuera\bin\Debug\ControlIncidenciaFuera.dll
+D:\Projectos\incideAilin\versiones\DentroFuera 10-11-2015\ControlIncidenciaFuera\ControlIncidenciaFuera\bin\Debug\ControlIncidenciaFuera.pdb
+D:\Projectos\incideAilin\versiones\DentroFuera 10-11-2015\ControlIncidenciaFuera\ControlIncidenciaFuera\bin\Debug\libreria_Incidencia_Dentro.dll
+D:\Projectos\incideAilin\versiones\DentroFuera 10-11-2015\ControlIncidenciaFuera\ControlIncidenciaFuera\bin\Debug\libreria_Incidencia_Dentro.pdb
+D:\Projectos\incideAilin\versiones\DentroFuera 10-11-2015\ControlIncidenciaFuera\ControlIncidenciaFuera\obj\Debug\ControlIncidenciaFuera.csprojResolveAssemblyReference.cache
+D:\Projectos\incideAilin\versiones\DentroFuera 10-11-2015\ControlIncidenciaFuera\ControlIncidenciaFuera\obj\Debug\ControlIncidenciaFuera.ControlJornada.resources
+D:\Projectos\incideAilin\versiones\DentroFuera 10-11-2015\ControlIncidenciaFuera\ControlIncidenciaFuera\obj\Debug\ControlIncidenciaFuera.csproj.GenerateResource.Cache
+D:\Projectos\incideAilin\versiones\DentroFuera 10-11-2015\ControlIncidenciaFuera\ControlIncidenciaFuera\obj\Debug\ControlIncidenciaFuera.dll
+D:\Projectos\incideAilin\versiones\DentroFuera 10-11-2015\ControlIncidenciaFuera\ControlIncidenciaFuera\obj\Debug\ControlIncidenciaFuera.pdb

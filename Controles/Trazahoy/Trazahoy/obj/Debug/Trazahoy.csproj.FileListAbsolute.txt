@@ -1,0 +1,6 @@
+D:\Projectos\INCIDE\Trazahoy\Trazahoy\bin\Debug\Trazahoy.dll
+D:\Projectos\INCIDE\Trazahoy\Trazahoy\bin\Debug\Trazahoy.pdb
+D:\Projectos\INCIDE\Trazahoy\Trazahoy\obj\Debug\TrazahoyComponent.Trazahoy.resources
+D:\Projectos\INCIDE\Trazahoy\Trazahoy\obj\Debug\Trazahoy.csproj.GenerateResource.Cache
+D:\Projectos\INCIDE\Trazahoy\Trazahoy\obj\Debug\Trazahoy.dll
+D:\Projectos\INCIDE\Trazahoy\Trazahoy\obj\Debug\Trazahoy.pdb

@@ -1,0 +1,8 @@
+D:\Controlador de versiones\Sistemas\INCIDE\Controles\ControlDIANOLAB\ControlDNL\ControlDNL\bin\Debug\ControlDNL.dll
+D:\Controlador de versiones\Sistemas\INCIDE\Controles\ControlDIANOLAB\ControlDNL\ControlDNL\bin\Debug\ControlDNL.pdb
+D:\Controlador de versiones\Sistemas\INCIDE\Controles\ControlDIANOLAB\ControlDNL\ControlDNL\obj\Debug\ControlDNL.csprojResolveAssemblyReference.cache
+D:\Controlador de versiones\Sistemas\INCIDE\Controles\ControlDIANOLAB\ControlDNL\ControlDNL\obj\Debug\ControlDNL.Properties.Resources.resources
+D:\Controlador de versiones\Sistemas\INCIDE\Controles\ControlDIANOLAB\ControlDNL\ControlDNL\obj\Debug\ControlDNL.csproj.GenerateResource.Cache
+D:\Controlador de versiones\Sistemas\INCIDE\Controles\ControlDIANOLAB\ControlDNL\ControlDNL\obj\Debug\ControlDNL.dll
+D:\Controlador de versiones\Sistemas\INCIDE\Controles\ControlDIANOLAB\ControlDNL\ControlDNL\obj\Debug\ControlDNL.pdb
+D:\Controlador de versiones\Sistemas\INCIDE\Controles\ControlDIANOLAB\ControlDNL\ControlDNL\obj\Debug\ControlDNL.UserControl2.resources
