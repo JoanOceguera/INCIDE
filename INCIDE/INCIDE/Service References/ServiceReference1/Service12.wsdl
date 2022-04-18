@@ -2,11 +2,11 @@
 <wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Service1" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
   <wsdl:types>
     <xsd:schema targetNamespace="http://tempuri.org/Imports">
-      <xsd:import schemaLocation="http://127.0.0.1:92/Service1.svc?xsd=xsd0" namespace="http://tempuri.org/" />
-      <xsd:import schemaLocation="http://127.0.0.1:92/Service1.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
-      <xsd:import schemaLocation="http://127.0.0.1:92/Service1.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/ServicioWebRH.Datos" />
-      <xsd:import schemaLocation="http://127.0.0.1:92/Service1.svc?xsd=xsd3" namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
-      <xsd:import schemaLocation="http://127.0.0.1:92/Service1.svc?xsd=xsd4" namespace="http://schemas.datacontract.org/2004/07/ServicioWebRH" />
+      <xsd:import schemaLocation="http://172.16.1.12:90/Service1.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://172.16.1.12:90/Service1.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://172.16.1.12:90/Service1.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/ServicioWebRH.Datos" />
+      <xsd:import schemaLocation="http://172.16.1.12:90/Service1.svc?xsd=xsd3" namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <xsd:import schemaLocation="http://172.16.1.12:90/Service1.svc?xsd=xsd4" namespace="http://schemas.datacontract.org/2004/07/ServicioWebRH" />
     </xsd:schema>
   </wsdl:types>
   <wsdl:message name="IService1_Trabajadores_InputMessage">
@@ -147,6 +147,24 @@
   <wsdl:message name="IService1_Categorizacion_OutputMessage">
     <wsdl:part name="parameters" element="tns:CategorizacionResponse" />
   </wsdl:message>
+  <wsdl:message name="IService1_DameTodosTrabajadores_InputMessage">
+    <wsdl:part name="parameters" element="tns:DameTodosTrabajadores" />
+  </wsdl:message>
+  <wsdl:message name="IService1_DameTodosTrabajadores_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DameTodosTrabajadoresResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_InformeP4_InputMessage">
+    <wsdl:part name="parameters" element="tns:InformeP4" />
+  </wsdl:message>
+  <wsdl:message name="IService1_InformeP4_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InformeP4Response" />
+  </wsdl:message>
+  <wsdl:message name="IService1_InformeCategorizacion_InputMessage">
+    <wsdl:part name="parameters" element="tns:InformeCategorizacion" />
+  </wsdl:message>
+  <wsdl:message name="IService1_InformeCategorizacion_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InformeCategorizacionResponse" />
+  </wsdl:message>
   <wsdl:portType name="IService1">
     <wsdl:operation name="Trabajadores">
       <wsdl:input wsaw:Action="http://tempuri.org/IService1/Trabajadores" message="tns:IService1_Trabajadores_InputMessage" />
@@ -239,6 +257,18 @@
     <wsdl:operation name="Categorizacion">
       <wsdl:input wsaw:Action="http://tempuri.org/IService1/Categorizacion" message="tns:IService1_Categorizacion_InputMessage" />
       <wsdl:output wsaw:Action="http://tempuri.org/IService1/CategorizacionResponse" message="tns:IService1_Categorizacion_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DameTodosTrabajadores">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/DameTodosTrabajadores" message="tns:IService1_DameTodosTrabajadores_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/DameTodosTrabajadoresResponse" message="tns:IService1_DameTodosTrabajadores_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="InformeP4">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/InformeP4" message="tns:IService1_InformeP4_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/InformeP4Response" message="tns:IService1_InformeP4_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="InformeCategorizacion">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/InformeCategorizacion" message="tns:IService1_InformeCategorizacion_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/InformeCategorizacionResponse" message="tns:IService1_InformeCategorizacion_OutputMessage" />
     </wsdl:operation>
   </wsdl:portType>
   <wsdl:binding name="BasicHttpBinding_IService1" type="tns:IService1">
@@ -450,10 +480,37 @@
         <soap:body use="literal" />
       </wsdl:output>
     </wsdl:operation>
+    <wsdl:operation name="DameTodosTrabajadores">
+      <soap:operation soapAction="http://tempuri.org/IService1/DameTodosTrabajadores" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InformeP4">
+      <soap:operation soapAction="http://tempuri.org/IService1/InformeP4" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InformeCategorizacion">
+      <soap:operation soapAction="http://tempuri.org/IService1/InformeCategorizacion" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
   </wsdl:binding>
   <wsdl:service name="Service1">
     <wsdl:port name="BasicHttpBinding_IService1" binding="tns:BasicHttpBinding_IService1">
-      <soap:address location="http://127.0.0.1:92/Service1.svc" />
+      <soap:address location="http://172.16.1.12:90/Service1.svc" />
     </wsdl:port>
   </wsdl:service>
 </wsdl:definitions>

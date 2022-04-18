@@ -58,6 +58,9 @@
             this.button5 = new System.Windows.Forms.Button();
             this.panel15 = new System.Windows.Forms.Panel();
             this.panel16 = new System.Windows.Forms.Panel();
+            this.panel17 = new System.Windows.Forms.Panel();
+            this.btnGenerarXmlUtilidades = new System.Windows.Forms.Button();
+            this.panel18 = new System.Windows.Forms.Panel();
             this.panel1.SuspendLayout();
             this.panel11.SuspendLayout();
             this.panel9.SuspendLayout();
@@ -68,6 +71,7 @@
             this.pnl_prenomina.SuspendLayout();
             this.pnl_persona.SuspendLayout();
             this.panel15.SuspendLayout();
+            this.panel17.SuspendLayout();
             this.SuspendLayout();
             // 
             // btnGestionarPersona
@@ -97,7 +101,7 @@
             this.btnAbrirCerrarMesPrenom.ForeColor = System.Drawing.Color.Gainsboro;
             this.btnAbrirCerrarMesPrenom.Location = new System.Drawing.Point(31, 1);
             this.btnAbrirCerrarMesPrenom.Name = "btnAbrirCerrarMesPrenom";
-            this.btnAbrirCerrarMesPrenom.Size = new System.Drawing.Size(393, 30);
+            this.btnAbrirCerrarMesPrenom.Size = new System.Drawing.Size(396, 30);
             this.btnAbrirCerrarMesPrenom.TabIndex = 12;
             this.btnAbrirCerrarMesPrenom.Text = "Abrir-Cerrar mes y generar reporte de incidencias";
             this.btnAbrirCerrarMesPrenom.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -109,6 +113,7 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.LightGray;
+            this.panel1.Controls.Add(this.panel17);
             this.panel1.Controls.Add(this.panel11);
             this.panel1.Controls.Add(this.panel9);
             this.panel1.Controls.Add(this.panel7);
@@ -119,7 +124,7 @@
             this.panel1.Controls.Add(this.pnl_persona);
             this.panel1.Location = new System.Drawing.Point(10, 11);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(432, 354);
+            this.panel1.Size = new System.Drawing.Size(453, 394);
             this.panel1.TabIndex = 13;
             // 
             // panel11
@@ -297,7 +302,7 @@
             // 
             this.panel13.Controls.Add(this.btnGenerarXml);
             this.panel13.Controls.Add(this.panel14);
-            this.panel13.Location = new System.Drawing.Point(0, 274);
+            this.panel13.Location = new System.Drawing.Point(0, 272);
             this.panel13.Name = "panel13";
             this.panel13.Size = new System.Drawing.Size(356, 30);
             this.panel13.TabIndex = 17;
@@ -330,7 +335,7 @@
             // 
             this.pnl_prenomina.Controls.Add(this.btnAbrirCerrarMesPrenom);
             this.pnl_prenomina.Controls.Add(this.panel3);
-            this.pnl_prenomina.Location = new System.Drawing.Point(0, 312);
+            this.pnl_prenomina.Location = new System.Drawing.Point(1, 345);
             this.pnl_prenomina.Name = "pnl_prenomina";
             this.pnl_prenomina.Size = new System.Drawing.Size(427, 30);
             this.pnl_prenomina.TabIndex = 17;
@@ -397,12 +402,45 @@
             this.panel16.Size = new System.Drawing.Size(7, 29);
             this.panel16.TabIndex = 14;
             // 
+            // panel17
+            // 
+            this.panel17.Controls.Add(this.btnGenerarXmlUtilidades);
+            this.panel17.Controls.Add(this.panel18);
+            this.panel17.Location = new System.Drawing.Point(0, 308);
+            this.panel17.Name = "panel17";
+            this.panel17.Size = new System.Drawing.Size(440, 30);
+            this.panel17.TabIndex = 22;
+            // 
+            // btnGenerarXmlUtilidades
+            // 
+            this.btnGenerarXmlUtilidades.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(165)))), ((int)(((byte)(223)))));
+            this.btnGenerarXmlUtilidades.FlatAppearance.BorderSize = 0;
+            this.btnGenerarXmlUtilidades.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnGenerarXmlUtilidades.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnGenerarXmlUtilidades.ForeColor = System.Drawing.Color.Gainsboro;
+            this.btnGenerarXmlUtilidades.Location = new System.Drawing.Point(31, 1);
+            this.btnGenerarXmlUtilidades.Name = "btnGenerarXmlUtilidades";
+            this.btnGenerarXmlUtilidades.Size = new System.Drawing.Size(407, 30);
+            this.btnGenerarXmlUtilidades.TabIndex = 12;
+            this.btnGenerarXmlUtilidades.Text = "Generar xml de utilidades para importar al SISCONT";
+            this.btnGenerarXmlUtilidades.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnGenerarXmlUtilidades.UseVisualStyleBackColor = false;
+            this.btnGenerarXmlUtilidades.Click += new System.EventHandler(this.btnGenerarXmlUtilidades_Click);
+            // 
+            // panel18
+            // 
+            this.panel18.BackColor = System.Drawing.Color.RoyalBlue;
+            this.panel18.Location = new System.Drawing.Point(1, 2);
+            this.panel18.Name = "panel18";
+            this.panel18.Size = new System.Drawing.Size(7, 29);
+            this.panel18.TabIndex = 14;
+            // 
             // MenuAdministracion
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(453, 377);
+            this.ClientSize = new System.Drawing.Size(469, 409);
             this.Controls.Add(this.panel15);
             this.Controls.Add(this.panel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
@@ -422,6 +460,7 @@
             this.pnl_prenomina.ResumeLayout(false);
             this.pnl_persona.ResumeLayout(false);
             this.panel15.ResumeLayout(false);
+            this.panel17.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -457,5 +496,8 @@
         private System.Windows.Forms.Panel panel15;
         private System.Windows.Forms.Button button5;
         private System.Windows.Forms.Panel panel16;
+        private System.Windows.Forms.Panel panel17;
+        private System.Windows.Forms.Button btnGenerarXmlUtilidades;
+        private System.Windows.Forms.Panel panel18;
     }
 }

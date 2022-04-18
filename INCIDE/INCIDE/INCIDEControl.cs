@@ -720,8 +720,6 @@ namespace INCIDE
         }
 
 
-
-
         #endregion
 
         #region Agrupación
@@ -893,7 +891,6 @@ namespace INCIDE
                     listajornada.Add(existe);
                 }
                 #endregion
-
                 else
                 {
                     #region Periodos
@@ -1748,7 +1745,7 @@ namespace INCIDE
                             {
                                 subsidios += periodos.cantidad_horas.GetValueOrDefault(0);
                             }
-                            else if (pln.Clave_nom.codigo == "EU" || pln.Clave_nom.codigo == "MV")
+                            else if (pln.Clave_nom.codigo == "EU" || pln.Clave_nom.codigo == "MV" || pln.Clave_nom.codigo == "Vcu")
                             {
                                 EUyMov += periodos.cantidad_horas.GetValueOrDefault(0);
                             }
@@ -1811,7 +1808,7 @@ namespace INCIDE
                             subsidios += periodos.cantidad_horas.GetValueOrDefault(0);
                             break;
                         }
-                        if (incidenciashoy.Find(t => t.Clave_nom.codigo == "EU") != null || incidenciashoy.Find(t => t.Clave_nom.codigo == "MV") != null)
+                        if (incidenciashoy.Find(t => t.Clave_nom.codigo == "EU") != null || incidenciashoy.Find(t => t.Clave_nom.codigo == "MV") != null || incidenciashoy.Find(t => t.Clave_nom.codigo == "Vcu") != null)
                         {
                             EUyMov += periodos.cantidad_horas.GetValueOrDefault(0);
                             break;
@@ -2150,6 +2147,44 @@ namespace INCIDE
                             item.Nombre, item.CantidadH, item.CantidadM, item.Total, item.CantidadCDS, item.CantidadCD, item.CantidadCE, item.CantidadTecnico
                         }
                     };
+                retorno.Add(fila);
+            }
+            return retorno;
+        }
+
+        public List<object[,]> FuncionGeneralTrabajadorCategorias()
+
+        {
+            List<object[,]> retorno = new List<object[,]>();
+            var trabajadores = servicio.InformeCategorizacion();
+            foreach (var item in trabajadores)
+            {
+                object[,] fila = new object[1, 11]
+                {
+                    {
+                        item.Exp, item.Nombre, item.Agrupacion, item.Ocupacion, item.GradoCientifico, item.CategoriaTecnologica, item.CategoriaCientifica, item.CategoriaBiotecnologica, item.CategoriaDocente, item.Edad, item.Sexo
+                    }
+                };
+                retorno.Add(fila);
+            }
+            return retorno;
+        }
+
+        public List<object[,]> FuncionGeneralInformeP4()
+
+        {
+            List<object[,]> retorno = new List<object[,]>();
+            var trabajadores = servicio.InformeP4();
+            foreach (var item in trabajadores)
+            {
+                object[,] fila = new object[1, 22]
+                {
+                    {
+                        item.Exp, item.Nombre, item.CarnetId, item.Agrupacion, item.Departamento, item.Ocupacion, item.Resolucion, item.GrupoSalarial, item.SalarioEscala, item.GCientifico, 
+                        item.Condiciones, item.Plus, item.Total, item.CategoriaOcupacional, item.Profesion, item.EstudiosTerminados, item.Piel, item.Sexo, item.Edad, item.Provincia, 
+                        item.Municipio, item.Alta
+                    }
+                };
                 retorno.Add(fila);
             }
             return retorno;
@@ -3389,6 +3424,63 @@ namespace INCIDE
             }
         }
 
+        public void GenerarExcelPersonaCategorizacion()
+        {
+            try
+            {
+                this.objApp =
+                    (Microsoft.Office.Interop.Excel.Application)new Microsoft.Office.Interop.Excel.Application();
+                this.objBook = (_Workbook)this.objApp.Workbooks.Add(Missing.Value);
+                Sheets worksheets = this.objBook.Worksheets;
+
+                _Worksheet worksheetcie = (_Worksheet)worksheets.get_Item((1));
+
+                int valcuerpo = 1;
+                int valfila = 1;
+
+                valcuerpo = CuerpoTrabajadorCategoria(worksheetcie, 2, valfila);
+                valfila = FilaxAreaTrabajadorCategoria(worksheetcie, 2, valcuerpo);
+                worksheetcie.Name = "Informe de Categorias de trabajadores del CIE";
+                Range rg = worksheetcie.get_Range("B3", "B3");
+                rg.EntireColumn.AutoFit();
+                this.objApp.Visible = true;
+                this.objApp.UserControl = true;
+            }
+            catch (Exception ex)
+            {
+                int num4 = (int)MessageBox.Show("Error: " + ex.Message + " Line: " + ex.Source, "Error");
+            }
+        }
+
+        public void GenerarExcelInformeP4()
+        {
+            try
+            {
+                this.objApp =
+                    (Microsoft.Office.Interop.Excel.Application)new Microsoft.Office.Interop.Excel.Application();
+                this.objBook = (_Workbook)this.objApp.Workbooks.Add(Missing.Value);
+                Sheets worksheets = this.objBook.Worksheets;
+
+                _Worksheet worksheetcie = (_Worksheet)worksheets.get_Item((1));
+
+                int valcuerpo = 1;
+                int valfila = 1;
+
+                valcuerpo = CuerpoInformeP4(worksheetcie, 2, valfila);
+                valfila = FilaxAreaInformeP4(worksheetcie, 2, valcuerpo);
+
+                worksheetcie.Name = "Informe P4";
+                Range rg = worksheetcie.get_Range("B3", "B3");
+                rg.EntireColumn.AutoFit();
+                this.objApp.Visible = true;
+                this.objApp.UserControl = true;
+            }
+            catch (Exception ex)
+            {
+                int num4 = (int)MessageBox.Show("Error: " + ex.Message + " Line: " + ex.Source, "Error");
+            }
+        }
+
         public void GenerarExcelAsistenciaDia(DateTime dia, List<int> idareas)
         {
             try
@@ -3489,52 +3581,43 @@ namespace INCIDE
                 var DiccioPlanes = GenerarPlanificacionExpDiccioPorFecha(fechainicio, fechafin);
 
                 int valcuerpo = CuerpoAsistenciaMes(worksheetcie, 1, 2, mes, año, nombre);
-                //int valfila = FilaxArea(worksheetcie, 1, valcuerpo, primero, mes, año, DiccioIncidencia, DiccioPlanes);
+                int valfila = FilaxAreaAsistenciaMes(worksheetcie, 1, 4, primero, mes, año, DiccioIncidencia, DiccioPlanes);
 
-                //Range rg = worksheetcie.get_Range("B1", "N1");
-                //rg.EntireColumn.AutoFit();
-                ////====================================
-                ////Range rgDATE = worksheetcie.get_Range("C1", "C1");
-                ////rgDATE.EntireColumn.NumberFormat = "MM/DD/YY";
-                ////====================================
-                //Range rgLD = worksheetcie.get_Range("C1", "N1");
-                //rgLD.EntireColumn.NumberFormat = "0.00";
+                string posInicial = Convert.ToChar(65).ToString() + 1;
+                string posFinal = Convert.ToChar(65 + valcuerpo).ToString() + 1;
+                Range rg = worksheetcie.get_Range(posInicial, posFinal);
+                rg.EntireColumn.AutoFit();
 
                 worksheetcie.Name = areaC.GetAreaDiccio(primero).descripcion;
 
-                //_Worksheet ultpest = (_Worksheet)worksheets.get_Item((2));
+                _Worksheet ultpest = (_Worksheet)worksheets.get_Item((2));
 
-                //if (idareas.Count > 1)
-                //{
-                //    idareas.RemoveAt(0);
-                //    int contpaworksheet = 1;
-                //    foreach (var item in idareas)
-                //    {
-                //        _Worksheet worksheet = (_Worksheet)worksheets.get_Item((contpaworksheet + 1));
-                //        object dato = worksheets.Add(Missing.Value, ultpest, Missing.Value, Missing.Value);
-                //        ultpest = (_Worksheet)dato;
+                if (idareas.Count > 1)
+                {
+                    idareas.RemoveAt(0);
+                    int contpaworksheet = 1;
+                    foreach (var item in idareas)
+                    {
+                        _Worksheet worksheet = (_Worksheet)worksheets.get_Item((contpaworksheet + 1));
+                        object dato = worksheets.Add(Missing.Value, ultpest, Missing.Value, Missing.Value);
+                        ultpest = (_Worksheet)dato;
 
-                        //string nombreArea = areaC.GetAreaDiccio(item).descripcion;
-                        //int valencabezado2 = Encabezado(worksheet, 1, 2, mes, año, nombreArea);
-                        //int valcuerpo2 = Cuerpo(worksheet, 1, valencabezado2);
-                        //int valfila2 = FilaxArea(worksheet, 1, valcuerpo2, item, mes, año, DiccioIncidencia, DiccioPlanes);
+                        string nombreArea = areaC.GetAreaDiccio(item).descripcion;
+                        int valcuerpo2 = CuerpoAsistenciaMes(worksheet, 1, 2, mes, año, nombreArea);
+                        int valfila2 = FilaxAreaAsistenciaMes(worksheet, 1, 4, item, mes, año, DiccioIncidencia, DiccioPlanes);
 
-                        //rg = worksheet.get_Range("B1", "N1");
-                        //rg.EntireColumn.AutoFit();
-                        ////====================================
-                        ////rgDATE = worksheet.get_Range("C1", "C1");
-                        ////rgDATE.EntireColumn.NumberFormat = "MM/DD/YY";
-                        ////====================================
-                        //rgLD = worksheet.get_Range("C1", "N1");
-                        //rgLD.EntireColumn.NumberFormat = "0.00";
+                        posInicial = Convert.ToChar(65).ToString() + 1;
+                        posFinal = Convert.ToChar(65 + valcuerpo2).ToString() + 1;
+                        rg = worksheet.get_Range(posInicial, posFinal);
+                        rg.EntireColumn.AutoFit();
 
-                        //worksheet.Name = areaC.GetAreaDiccio(item).descripcion;
-                        //contpaworksheet++;
-                    //}
-                //}
+                        worksheet.Name = areaC.GetAreaDiccio(item).descripcion;
+                        contpaworksheet++;
+                    }
+                }
 
-                this.objApp.Visible = true;
-                this.objApp.UserControl = true;
+                    this.objApp.Visible = true;
+                    this.objApp.UserControl = true;
             }
             catch (Exception ex)
             {
@@ -3820,7 +3903,7 @@ namespace INCIDE
                 Missing.Value);
             range15.Cells.Merge(Missing.Value);
             range15.HorizontalAlignment = HorizontalAlignment.Center;
-            range15.set_Value(Missing.Value, "EU y Mov");
+            range15.set_Value(Missing.Value, "EU, Mov y Vcu");
 
             pos = Convert.ToChar(pcol + 11).ToString() + (pfil + 1).ToString();
             Range range14 = worksheet.get_Range(pos, pos);
@@ -4040,86 +4123,19 @@ namespace INCIDE
                     Range range5 = worksheet.get_Range(pos, pos);
                     range5.Cells.Merge(Missing.Value);
                     range5.HorizontalAlignment = HorizontalAlignment.Center;
-                    range5.set_Value(Missing.Value, nombreDia + " " + i);
+                    if (i < 10)
+                    {
+                        range5.set_Value(Missing.Value, nombreDia + " 0" + i);
+                    }
+                    else
+                    {
+                        range5.set_Value(Missing.Value, nombreDia + " " + i);
+                    }
                     valorColumna++;
                 }                
             }
 
-
-            //pos = Convert.ToChar(pcol + 5).ToString() + pfil.ToString();
-            //Range range5 = worksheet.get_Range(pos, pos);
-            //range5.Cells.Merge(Missing.Value);
-            //range5.HorizontalAlignment = HorizontalAlignment.Center;
-            //range5.set_Value(Missing.Value, "Viernes");
-
-            //pos = Convert.ToChar(pcol + 6).ToString() + pfil.ToString();
-            //Range range6 = worksheet.get_Range(pos, pos);
-            //range6.Cells.Merge(Missing.Value);
-            //range6.HorizontalAlignment = HorizontalAlignment.Center;
-            //range6.set_Value(Missing.Value, "Total");
-
-            //pos = Convert.ToChar(pcol + 7).ToString() + pfil.ToString();
-            //Range range7 = worksheet.get_Range(pos, pos);
-            //range7.Cells.Merge(Missing.Value);
-            //range7.HorizontalAlignment = HorizontalAlignment.Center;
-            //range7.set_Value(Missing.Value, "Promedio Semanal");
-
-            //pos = Convert.ToChar(pcol).ToString() + (pfil + 1).ToString();
-            //Range range8 = worksheet.get_Range(pos, pos);
-            //range8.Cells.Merge(Missing.Value);
-            //range8.HorizontalAlignment = HorizontalAlignment.Center;
-            //range8.set_Value(Missing.Value, "Presentes");
-
-            //pos = Convert.ToChar(pcol).ToString() + (pfil + 2).ToString();
-            //Range range9 = worksheet.get_Range(pos, pos);
-            //range9.Cells.Merge(Missing.Value);
-            //range9.HorizontalAlignment = HorizontalAlignment.Center;
-            //range9.set_Value(Missing.Value, "Trabajo a Distancia");
-
-            //pos = Convert.ToChar(pcol).ToString() + (pfil + 3).ToString();
-            //Range range10 = worksheet.get_Range(pos, pos);
-            //range10.Cells.Merge(Missing.Value);
-            //range10.HorizontalAlignment = HorizontalAlignment.Center;
-            //range10.set_Value(Missing.Value, "Vacaciones");
-
-            //pos = Convert.ToChar(pcol).ToString() + (pfil + 4).ToString();
-            //Range range11 = worksheet.get_Range(pos, pos);
-            //range11.Cells.Merge(Missing.Value);
-            //range11.HorizontalAlignment = HorizontalAlignment.Center;
-            //range11.set_Value(Missing.Value, "Certificados Médicos");
-
-            //pos = Convert.ToChar(pcol).ToString() + (pfil + 5).ToString();
-            //Range range12 = worksheet.get_Range(pos, pos);
-            //range12.Cells.Merge(Missing.Value);
-            //range12.HorizontalAlignment = HorizontalAlignment.Center;
-            //range12.set_Value(Missing.Value, "Licencia sin Sueldo");
-
-            //pos = Convert.ToChar(pcol).ToString() + (pfil + 6).ToString();
-            //Range range13 = worksheet.get_Range(pos, pos);
-            //range13.Cells.Merge(Missing.Value);
-            //range13.HorizontalAlignment = HorizontalAlignment.Center;
-            //range13.set_Value(Missing.Value, "Garantía Salarial 100%");
-
-            //pos = Convert.ToChar(pcol).ToString() + (pfil + 7).ToString();
-            //Range range14 = worksheet.get_Range(pos, pos);
-            //range14.Cells.Merge(Missing.Value);
-            //range14.HorizontalAlignment = HorizontalAlignment.Center;
-            //range14.set_Value(Missing.Value, "Garantía Salarial 60%");
-
-            //pos = Convert.ToChar(pcol).ToString() + (pfil + 8).ToString();
-            //Range range15 = worksheet.get_Range(pos, pos);
-            //range15.Cells.Merge(Missing.Value);
-            //range15.HorizontalAlignment = HorizontalAlignment.Center;
-            //range15.set_Value(Missing.Value, "Interruptos");
-
-            //pos = Convert.ToChar(pcol).ToString() + (pfil + 9).ToString();
-            //Range range16 = worksheet.get_Range(pos, pos);
-            //range16.Cells.Merge(Missing.Value);
-            //range16.HorizontalAlignment = HorizontalAlignment.Center;
-            //range16.set_Value(Missing.Value, "Licencia de Maternidad");
-
-
-            return pcol + 1;
+            return valorColumna - 1;
 
         }
 
@@ -4476,6 +4492,154 @@ namespace INCIDE
             return pfil + 3;
         }
 
+        private int CuerpoTrabajadorCategoria(_Worksheet worksheet, int columna, int fila)
+        {
+            columna = 64 + columna; //caracter ascii de A
+            int pcol = columna;
+            int pfil = fila;
+
+            string pos = Convert.ToChar(pcol + 4).ToString() + (pfil + 1).ToString();
+            string pos2 = Convert.ToChar(pcol + 7).ToString() + (pfil + 1).ToString();
+            Range range1 = worksheet.get_Range(pos, pos2);
+            range1.Cells.Merge(Missing.Value);
+            range1.HorizontalAlignment = HorizontalAlignment.Center;
+            range1.set_Value(Missing.Value, "CATEGORÍA OCUPACIONAL");
+            range1.BorderAround(XlLineStyle.xlContinuous, XlBorderWeight.xlMedium, XlColorIndex.xlColorIndexAutomatic,
+                Missing.Value);
+            range1.Cells.Interior.Color = Color.FromArgb(255, 255, 255, 0);
+
+            pos = Convert.ToChar(pcol + 1).ToString() + (pfil + 2).ToString();
+            Range range3 = worksheet.get_Range(pos, pos);
+            range3.HorizontalAlignment = HorizontalAlignment.Center;
+            range3.set_Value(Missing.Value, "H");
+            range3.BorderAround(XlLineStyle.xlContinuous, XlBorderWeight.xlThin, XlColorIndex.xlColorIndexAutomatic,
+                Missing.Value);
+
+            pos = Convert.ToChar(pcol + 2).ToString() + (pfil + 2).ToString();
+            Range range4 = worksheet.get_Range(pos, pos);
+            range4.HorizontalAlignment = HorizontalAlignment.Center;
+            range4.set_Value(Missing.Value, "M");
+            range4.BorderAround(XlLineStyle.xlContinuous, XlBorderWeight.xlThin, XlColorIndex.xlColorIndexAutomatic,
+                Missing.Value);
+
+            pos = Convert.ToChar(pcol + 3).ToString() + (pfil + 2).ToString();
+            Range range5 = worksheet.get_Range(pos, pos);
+            range5.HorizontalAlignment = HorizontalAlignment.Center;
+            range5.set_Value(Missing.Value, "T");
+            range5.BorderAround(XlLineStyle.xlContinuous, XlBorderWeight.xlThin, XlColorIndex.xlColorIndexAutomatic,
+                Missing.Value);
+
+            pos = Convert.ToChar(pcol + 4).ToString() + (pfil + 2).ToString();
+            Range range6 = worksheet.get_Range(pos, pos);
+            range6.HorizontalAlignment = HorizontalAlignment.Center;
+            range6.set_Value(Missing.Value, "CDS");
+            range6.BorderAround(XlLineStyle.xlContinuous, XlBorderWeight.xlThin, XlColorIndex.xlColorIndexAutomatic,
+                Missing.Value);
+
+            pos = Convert.ToChar(pcol + 5).ToString() + (pfil + 2).ToString();
+            Range range7 = worksheet.get_Range(pos, pos);
+            range7.HorizontalAlignment = HorizontalAlignment.Center;
+            range7.set_Value(Missing.Value, "CD");
+            range7.BorderAround(XlLineStyle.xlContinuous, XlBorderWeight.xlThin, XlColorIndex.xlColorIndexAutomatic,
+                Missing.Value);
+
+            pos = Convert.ToChar(pcol + 6).ToString() + (pfil + 2).ToString();
+            Range range8 = worksheet.get_Range(pos, pos);
+            range8.HorizontalAlignment = HorizontalAlignment.Center;
+            range8.set_Value(Missing.Value, "CE");
+            range8.BorderAround(XlLineStyle.xlContinuous, XlBorderWeight.xlThin, XlColorIndex.xlColorIndexAutomatic,
+                Missing.Value);
+
+            pos = Convert.ToChar(pcol + 7).ToString() + (pfil + 2).ToString();
+            Range range9 = worksheet.get_Range(pos, pos);
+            range9.HorizontalAlignment = HorizontalAlignment.Center;
+            range9.set_Value(Missing.Value, "Técnico");
+            range9.BorderAround(XlLineStyle.xlContinuous, XlBorderWeight.xlThin, XlColorIndex.xlColorIndexAutomatic,
+                Missing.Value);
+
+            pos = Convert.ToChar(pcol).ToString() + (pfil + 2).ToString();
+            pos2 = Convert.ToChar(pcol + 7).ToString() + (pfil + 2).ToString();
+            Range range10 = worksheet.get_Range(pos, pos2);
+            range10.Cells.Interior.Color = Color.FromArgb(255, 255, 255, 0);
+
+
+            return pfil + 3;
+        }
+
+        private int CuerpoInformeP4(_Worksheet worksheet, int columna, int fila)
+        {
+            columna = 64 + columna; //caracter ascii de A
+            int pcol = columna;
+            int pfil = fila;
+
+            string pos = Convert.ToChar(pcol + 4).ToString() + (pfil + 1).ToString();
+            string pos2 = Convert.ToChar(pcol + 7).ToString() + (pfil + 1).ToString();
+            Range range1 = worksheet.get_Range(pos, pos2);
+            range1.Cells.Merge(Missing.Value);
+            range1.HorizontalAlignment = HorizontalAlignment.Center;
+            range1.set_Value(Missing.Value, "CATEGORÍA OCUPACIONAL");
+            range1.BorderAround(XlLineStyle.xlContinuous, XlBorderWeight.xlMedium, XlColorIndex.xlColorIndexAutomatic,
+                Missing.Value);
+            range1.Cells.Interior.Color = Color.FromArgb(255, 255, 255, 0);
+
+            pos = Convert.ToChar(pcol + 1).ToString() + (pfil + 2).ToString();
+            Range range3 = worksheet.get_Range(pos, pos);
+            range3.HorizontalAlignment = HorizontalAlignment.Center;
+            range3.set_Value(Missing.Value, "H");
+            range3.BorderAround(XlLineStyle.xlContinuous, XlBorderWeight.xlThin, XlColorIndex.xlColorIndexAutomatic,
+                Missing.Value);
+
+            pos = Convert.ToChar(pcol + 2).ToString() + (pfil + 2).ToString();
+            Range range4 = worksheet.get_Range(pos, pos);
+            range4.HorizontalAlignment = HorizontalAlignment.Center;
+            range4.set_Value(Missing.Value, "M");
+            range4.BorderAround(XlLineStyle.xlContinuous, XlBorderWeight.xlThin, XlColorIndex.xlColorIndexAutomatic,
+                Missing.Value);
+
+            pos = Convert.ToChar(pcol + 3).ToString() + (pfil + 2).ToString();
+            Range range5 = worksheet.get_Range(pos, pos);
+            range5.HorizontalAlignment = HorizontalAlignment.Center;
+            range5.set_Value(Missing.Value, "T");
+            range5.BorderAround(XlLineStyle.xlContinuous, XlBorderWeight.xlThin, XlColorIndex.xlColorIndexAutomatic,
+                Missing.Value);
+
+            pos = Convert.ToChar(pcol + 4).ToString() + (pfil + 2).ToString();
+            Range range6 = worksheet.get_Range(pos, pos);
+            range6.HorizontalAlignment = HorizontalAlignment.Center;
+            range6.set_Value(Missing.Value, "CDS");
+            range6.BorderAround(XlLineStyle.xlContinuous, XlBorderWeight.xlThin, XlColorIndex.xlColorIndexAutomatic,
+                Missing.Value);
+
+            pos = Convert.ToChar(pcol + 5).ToString() + (pfil + 2).ToString();
+            Range range7 = worksheet.get_Range(pos, pos);
+            range7.HorizontalAlignment = HorizontalAlignment.Center;
+            range7.set_Value(Missing.Value, "CD");
+            range7.BorderAround(XlLineStyle.xlContinuous, XlBorderWeight.xlThin, XlColorIndex.xlColorIndexAutomatic,
+                Missing.Value);
+
+            pos = Convert.ToChar(pcol + 6).ToString() + (pfil + 2).ToString();
+            Range range8 = worksheet.get_Range(pos, pos);
+            range8.HorizontalAlignment = HorizontalAlignment.Center;
+            range8.set_Value(Missing.Value, "CE");
+            range8.BorderAround(XlLineStyle.xlContinuous, XlBorderWeight.xlThin, XlColorIndex.xlColorIndexAutomatic,
+                Missing.Value);
+
+            pos = Convert.ToChar(pcol + 7).ToString() + (pfil + 2).ToString();
+            Range range9 = worksheet.get_Range(pos, pos);
+            range9.HorizontalAlignment = HorizontalAlignment.Center;
+            range9.set_Value(Missing.Value, "Técnico");
+            range9.BorderAround(XlLineStyle.xlContinuous, XlBorderWeight.xlThin, XlColorIndex.xlColorIndexAutomatic,
+                Missing.Value);
+
+            pos = Convert.ToChar(pcol).ToString() + (pfil + 2).ToString();
+            pos2 = Convert.ToChar(pcol + 7).ToString() + (pfil + 2).ToString();
+            Range range10 = worksheet.get_Range(pos, pos2);
+            range10.Cells.Interior.Color = Color.FromArgb(255, 255, 255, 0);
+
+
+            return pfil + 3;
+        }
+
         /// <summary>
         /// Inserta un valor en una celda
         /// </summary>
@@ -4595,6 +4759,219 @@ namespace INCIDE
             catch (Exception ex)
             {
                 //  CExcepcionesyTrazas.ExcepcionyTraza(ex);
+                MessageBox.Show("ERROR, Fila " + ex.Message);
+            }
+            return pfil + cont + 1;
+
+        }
+
+        private int FilaxAreaAsistenciaMes(_Worksheet worksheet, int columna, int fila, int area, int mes, int ano, Dictionary<int, List<Incidencia>> Incidencias, Dictionary<int, List<Planificacion>> Planes)
+        {
+            int pfil = fila;
+            int cont = 0;
+            try
+            {
+
+                columna = 64 + columna; //caracter ascii de A
+                int pcol = columna;
+
+                //---creo una lista con todos los expedientes activos y los llamo uno a uno..
+
+                List<int> trabajadores = areaC.PersonasActivasQuePertenecenArea(areaC.GetAreaDiccio(area)).Select(t => t.exp).ToList();
+                
+                foreach (var item in trabajadores)
+                {
+                    PersonalRH persona;
+                    string nombre = "";
+                    try
+                    {
+                        persona = servicio.DamePersonaxExpDeep(item);
+                        nombre = persona.Nombre + " " + persona.Apellido1 + " " + persona.Apellido2;
+                    }
+                    catch (Exception ex)
+                    {
+                        MessageBox.Show("ERROR, Fila " + ex.Message);
+                    }
+
+                    string pos = Convert.ToChar(pcol) + (pfil + cont + 1).ToString();
+                    string pos1 = Convert.ToChar(pcol) + (pfil + cont + 1).ToString();
+
+                    Range range1 = worksheet.get_Range(pos, pos1);
+                    range1.set_Value(Missing.Value, item);
+                    range1.BorderAround(XlLineStyle.xlContinuous, XlBorderWeight.xlThin, XlColorIndex.xlColorIndexAutomatic,
+                        Missing.Value);
+
+                    pos = Convert.ToChar(pcol + 1) + (pfil + cont + 1).ToString();
+                    pos1 = Convert.ToChar(pcol + 1) + (pfil + cont + 1).ToString();
+
+                    Range range2 = worksheet.get_Range(pos, pos1);
+                    range2.set_Value(Missing.Value, nombre);
+                    range2.BorderAround(XlLineStyle.xlContinuous, XlBorderWeight.xlThin, XlColorIndex.xlColorIndexAutomatic,
+                        Missing.Value);
+
+                    int colm = 2;
+
+                    for (int i = 1; i <= DateTime.DaysInMonth(ano, mes); i++)
+                    {
+                        DateTime dia = new DateTime(ano, mes, i);
+                        
+                        if (dia.DayOfWeek != DayOfWeek.Saturday && dia.DayOfWeek != DayOfWeek.Sunday)
+                        {
+                            string claves = "";
+                            if (Planes.ContainsKey(item) || Incidencias.ContainsKey(item))
+                            {
+                                if (Planes.ContainsKey(item))
+                                {
+                                    var planesDia = Planes[item].Where(x => ((DateTime)x.fecha_inicio).Date <= dia.Date && ((DateTime)x.fecha_fin).Date >= dia.Date).ToList();
+                                    if (planesDia.Any())
+                                    {
+                                        if (planesDia.Count > 1)
+                                        {
+                                            foreach (var plan in planesDia)
+                                            {
+                                                if (plan.id_clave != null)
+                                                {
+                                                    if (plan != planesDia.Last())
+                                                    {
+                                                        Clave_nom clave = clavesNomC.GetClave_nom((int)plan.id_clave);
+                                                        claves = $"{claves}{clave.codigo}-";
+                                                    }
+                                                    else
+                                                    {
+                                                        Clave_nom clave = clavesNomC.GetClave_nom((int)plan.id_clave);
+                                                        claves = $"{claves}{clave.codigo}";
+                                                    }
+                                                }
+                                            }
+                                        }
+                                        else
+                                        {
+                                            foreach (var plan in planesDia)
+                                            {
+                                                if (plan.id_clave != null)
+                                                {
+                                                    Clave_nom clave = clavesNomC.GetClave_nom((int)plan.id_clave);
+                                                    claves = clave.codigo;
+                                                }
+                                            }
+                                        }
+                                    }
+                                    else
+                                    {
+                                        if (Incidencias.ContainsKey(item))
+                                        {
+                                            var incidenciasDia = Incidencias[item].Where(x => x.fecha.Date == dia.Date).ToList();
+                                            if (incidenciasDia.Any())
+                                            {
+                                                if (incidenciasDia.Count > 1)
+                                                {
+                                                    foreach (var incidencia in incidenciasDia)
+                                                    {
+                                                        if (incidencia.id_clave != null)
+                                                        {
+                                                            if (incidencia != incidenciasDia.Last())
+                                                            {
+                                                                Clave_nom clave = clavesNomC.GetClave_nom((int)incidencia.id_clave);
+                                                                claves = $"{claves}{clave.codigo}-";
+                                                            }
+                                                            else
+                                                            {
+                                                                Clave_nom clave = clavesNomC.GetClave_nom((int)incidencia.id_clave);
+                                                                claves = $"{claves}{clave.codigo}";
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                                else
+                                                {
+                                                    foreach (var incidencia in incidenciasDia)
+                                                    {
+                                                        if (incidencia.id_clave != null)
+                                                        {
+                                                            Clave_nom clave = clavesNomC.GetClave_nom((int)incidencia.id_clave);
+                                                            claves = clave.codigo;
+                                                        }
+                                                    }
+                                                }
+
+                                            }
+                                            else
+                                            {
+                                                claves = "B";
+                                            }
+                                        }
+
+                                    }
+                                }
+                                else
+                                {
+                                    if (Incidencias.ContainsKey(item))
+                                    {
+                                        var incidenciasDia = Incidencias[item].Where(x => x.fecha.Date == dia.Date).ToList();
+                                        if (incidenciasDia.Any())
+                                        {
+                                            if (incidenciasDia.Count > 1)
+                                            {
+                                                foreach (var incidencia in incidenciasDia)
+                                                {
+                                                    if (incidencia.id_clave != null)
+                                                    {
+                                                        if (incidencia != incidenciasDia.Last())
+                                                        {
+                                                            Clave_nom clave = clavesNomC.GetClave_nom((int)incidencia.id_clave);
+                                                            claves = $"{claves}{clave.codigo}-";
+                                                        }
+                                                        else
+                                                        {
+                                                            Clave_nom clave = clavesNomC.GetClave_nom((int)incidencia.id_clave);
+                                                            claves = $"{claves}{clave.codigo}";
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                            else
+                                            {
+                                                foreach (var incidencia in incidenciasDia)
+                                                {
+                                                    if (incidencia.id_clave != null)
+                                                    {
+                                                        Clave_nom clave = clavesNomC.GetClave_nom((int)incidencia.id_clave);
+                                                        claves = clave.codigo;
+                                                    }
+                                                }
+                                            }
+
+                                        }
+                                        else
+                                        {
+                                            claves = "B";
+                                        }
+                                    }
+                                }
+                            }
+                            else
+                            {
+                                claves = "B";
+                            }
+                            pos = Convert.ToChar(pcol + colm) + (pfil + cont + 1).ToString();
+                            pos1 = Convert.ToChar(pcol + colm) + (pfil + cont + 1).ToString();
+
+                            Range range3 = worksheet.get_Range(pos, pos1);
+                            range3.set_Value(Missing.Value, claves);
+                            range3.BorderAround(XlLineStyle.xlContinuous, XlBorderWeight.xlThin, XlColorIndex.xlColorIndexAutomatic,
+                                Missing.Value);
+                            colm++;
+                        }
+                        
+                    }
+
+                    cont++;
+                }
+
+                return pfil + cont + 1;
+            }
+            catch (Exception ex)
+            {
                 MessageBox.Show("ERROR, Fila " + ex.Message);
             }
             return pfil + cont + 1;
@@ -4967,6 +5344,68 @@ namespace INCIDE
             return pfil + cont + 2;
         }
 
+        private int FilaxAreaTrabajadorCategoria(_Worksheet worksheet, int columna, int fila)
+        {
+            int pfil = fila;
+            int cont = 0;
+            try
+            {
+                columna = 64 + columna; //caracter ascii de A
+                int pcol = columna;
+                List<object[,]> resultados = FuncionGeneralTrabajadorCategorias();
+                foreach (var item in resultados)
+                {
+                    string pos = Convert.ToChar(pcol) + (pfil + cont).ToString();
+                    string pos1 = Convert.ToChar(pcol + 7) + (pfil + cont).ToString();
+                    Range range1 = worksheet.get_Range(pos, pos1);
+                    range1.set_Value(Missing.Value, item);
+                    range1.Cells.Borders.LineStyle = XlLineStyle.xlContinuous;
+                    range1.Cells.Borders.Weight = XlBorderWeight.xlThin;
+                    range1.Cells.Borders.ColorIndex = XlColorIndex.xlColorIndexAutomatic;
+                    range1.BorderAround(XlLineStyle.xlContinuous, XlBorderWeight.xlThin, XlColorIndex.xlColorIndexAutomatic,
+                        Missing.Value);
+                    cont++;
+                }
+                return pfil + cont + 1;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("ERROR, Fila " + ex.Message);
+            }
+            return pfil + cont + 2;
+        }
+
+        private int FilaxAreaInformeP4(_Worksheet worksheet, int columna, int fila)
+        {
+            int pfil = fila;
+            int cont = 0;
+            try
+            {
+                columna = 64 + columna; //caracter ascii de A
+                int pcol = columna;
+                List<object[,]> resultados = FuncionGeneralInformeP4();
+                foreach (var item in resultados)
+                {
+                    string pos = Convert.ToChar(pcol) + (pfil + cont).ToString();
+                    string pos1 = Convert.ToChar(pcol + 7) + (pfil + cont).ToString();
+                    Range range1 = worksheet.get_Range(pos, pos1);
+                    range1.set_Value(Missing.Value, item);
+                    range1.Cells.Borders.LineStyle = XlLineStyle.xlContinuous;
+                    range1.Cells.Borders.Weight = XlBorderWeight.xlThin;
+                    range1.Cells.Borders.ColorIndex = XlColorIndex.xlColorIndexAutomatic;
+                    range1.BorderAround(XlLineStyle.xlContinuous, XlBorderWeight.xlThin, XlColorIndex.xlColorIndexAutomatic,
+                        Missing.Value);
+                    cont++;
+                }
+                return pfil + cont + 1;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("ERROR, Fila " + ex.Message);
+            }
+            return pfil + cont + 2;
+        }
+
         /// <summary>
         /// Pie de firma al final de la hoja
         /// </summary>
@@ -5014,7 +5453,7 @@ namespace INCIDE
         //    return pfil + 6;
         //}
 
-        
+
 
         #endregion
 

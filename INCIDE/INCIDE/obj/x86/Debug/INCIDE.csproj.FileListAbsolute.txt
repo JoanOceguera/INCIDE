@@ -678,7 +678,6 @@ C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\bin\Debug\Telerik.WinCo
 C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\bin\Debug\Telerik.WinControls.GridView.xml
 C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\bin\Debug\Telerik.WinControls.UI.xml
 C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\bin\Debug\WindowsFormsControlLibrary1.pdb
-C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csprojAssemblyReference.cache
 C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.ResolveComReference.cache
 C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.AdminForm.resources
 C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ControlesVisuales.ControlIncidencia.resources
@@ -862,3 +861,120 @@ D:\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.CopyComplete
 D:\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe
 D:\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.pdb
 C:\Users\Joan\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.AsistenciaMesForm.resources
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.exe.config
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.exe.manifest
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.application
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.exe
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.pdb
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\bin\Debug\ControlDNL.dll
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\bin\Debug\ControlLibrary_DNL.dll
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\bin\Debug\Telerik.WinControls.dll
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\bin\Debug\Telerik.WinControls.GridView.dll
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\bin\Debug\Telerik.WinControls.Themes.Office2007Black.dll
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\bin\Debug\Telerik.WinControls.Themes.Office2010Black.dll
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\bin\Debug\TelerikCommon.dll
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\bin\Debug\ControlDNL.pdb
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\bin\Debug\ControlLibrary_DNL.pdb
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\bin\Debug\Telerik.WinControls.xml
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\bin\Debug\Telerik.WinControls.GridView.xml
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csprojAssemblyReference.cache
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.ResolveComReference.cache
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.AdminForm.resources
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.AltasBajasForm.resources
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.AsistenciaForm.resources
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.AsistenciaMesForm.resources
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.CategorizacionForm.resources
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ControlesVisuales.ControlIncidencia.resources
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Controles_Visuales.ControlPlanificacion.resources
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ControlesVisuales.Control_Planificar_DNL.resources
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Form1.resources
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GenerarDBF.resources
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GenerarXml.resources
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestinarGruposPeriodosTiempo.resources
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarAgrupacion.resources
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarAreas.resources
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarClaveNom.resources
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarGrupoEvaluacion.resources
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarPeriodoTiempo.resources
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarPersona.resources
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.IncidenciasPorExpediente.resources
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Loggin.resources
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.MenuAdministracion.resources
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.MenuAdministracionReports.resources
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Properties.Resources.resources
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.RegistroForm.resources
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ReportesForm.resources
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.TrabajadoresForm.resources
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.TrazasHoy.resources
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.GenerateResource.cache
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe.licenses
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe.manifest
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.application
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.CopyComplete
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe
+C:\Users\Joan\Desktop\Nueva carpeta (3)\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.pdb
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.exe.config
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.exe.manifest
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.application
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.exe
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\bin\Debug\INCIDE.pdb
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\bin\Debug\ControlDNL.dll
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\bin\Debug\ControlLibrary_DNL.dll
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\bin\Debug\ControlDNL.pdb
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\bin\Debug\ControlLibrary_DNL.pdb
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\bin\Debug\Telerik.WinControls.xml
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\bin\Debug\Telerik.WinControls.GridView.xml
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csprojAssemblyReference.cache
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.ResolveComReference.cache
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.AdminForm.resources
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.AltasBajasForm.resources
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.AsistenciaForm.resources
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.AsistenciaMesForm.resources
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.CategorizacionForm.resources
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ControlesVisuales.ControlIncidencia.resources
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Controles_Visuales.ControlPlanificacion.resources
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ControlesVisuales.Control_Planificar_DNL.resources
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Form1.resources
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GenerarDBF.resources
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GenerarXml.resources
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestinarGruposPeriodosTiempo.resources
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarAgrupacion.resources
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarAreas.resources
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarClaveNom.resources
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarGrupoEvaluacion.resources
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarPeriodoTiempo.resources
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GestionarPersona.resources
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.IncidenciasPorExpediente.resources
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Loggin.resources
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.MenuAdministracion.resources
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.MenuAdministracionReports.resources
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.Properties.Resources.resources
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.RegistroForm.resources
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.ReportesForm.resources
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.TrabajadoresForm.resources
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.TrazasHoy.resources
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.GenerateResource.cache
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe.licenses
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.CoreCompileInputs.cache
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe.manifest
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.application
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.CopyComplete
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.exe
+C:\Users\joan.oceguera\Desktop\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.pdb
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.AltasBajasForm.resources
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.AsistenciaForm.resources
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.AsistenciaMesForm.resources
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.CategorizacionForm.resources
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.RegistroForm.resources
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.CoreCompileInputs.cache
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.GenerarXmlUtilidades.resources
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.InformeP4Form.resources
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.PersonaCategorizacionForm.resources
+C:\Users\joan.oceguera\source\repos\INCIDE\INCIDE\INCIDE\obj\x86\Debug\INCIDE.csproj.AssemblyReference.cache

@@ -45,10 +45,9 @@ namespace INCIDE
             {
                 Meses[i] = Meses[i].Substring(0, 1).ToUpper() + Meses[i].Substring(1);
             }
-            cmb_mes.Items.Add("Todos");
             cmb_mes.Items.AddRange(Meses);
             int mesActual = DateTime.Now.Month;
-            this.cmb_mes.SelectedIndex = mesActual;
+            this.cmb_mes.SelectedIndex = mesActual-1;
         }
 
         private void btnGenerarListado_Click(object sender, EventArgs e)
@@ -74,7 +73,7 @@ namespace INCIDE
                         idAreas.Add(area.id_area);
                     }
                     
-                    List<object> param = new List<object>() { ano, mes, idAreas};
+                    List<object> param = new List<object>() { ano, mes + 1, idAreas};
                     this.worker_AsistenciaMes.RunWorkerAsync(param);
                     pnlSms.Visible = true;
                 }

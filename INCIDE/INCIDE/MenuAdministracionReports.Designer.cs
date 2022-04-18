@@ -29,9 +29,6 @@
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
-            this.panel15 = new System.Windows.Forms.Panel();
-            this.panel16 = new System.Windows.Forms.Panel();
-            this.button8 = new System.Windows.Forms.Button();
             this.panel13 = new System.Windows.Forms.Panel();
             this.panel14 = new System.Windows.Forms.Panel();
             this.button7 = new System.Windows.Forms.Button();
@@ -50,75 +47,54 @@
             this.panel2 = new System.Windows.Forms.Panel();
             this.button2 = new System.Windows.Forms.Button();
             this.panel3 = new System.Windows.Forms.Panel();
+            this.panel15 = new System.Windows.Forms.Panel();
+            this.panel16 = new System.Windows.Forms.Panel();
+            this.button8 = new System.Windows.Forms.Button();
             this.pnl_dbf = new System.Windows.Forms.Panel();
             this.button1 = new System.Windows.Forms.Button();
             this.panel4 = new System.Windows.Forms.Panel();
+            this.panel17 = new System.Windows.Forms.Panel();
+            this.panel18 = new System.Windows.Forms.Panel();
+            this.button9 = new System.Windows.Forms.Button();
+            this.panel19 = new System.Windows.Forms.Panel();
+            this.panel20 = new System.Windows.Forms.Panel();
+            this.button10 = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
-            this.panel15.SuspendLayout();
             this.panel13.SuspendLayout();
             this.panel11.SuspendLayout();
             this.panel9.SuspendLayout();
             this.panel7.SuspendLayout();
             this.panel6.SuspendLayout();
             this.panel2.SuspendLayout();
+            this.panel15.SuspendLayout();
             this.pnl_dbf.SuspendLayout();
+            this.panel17.SuspendLayout();
+            this.panel19.SuspendLayout();
             this.SuspendLayout();
             // 
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.LightGray;
-            this.panel1.Controls.Add(this.panel15);
+            this.panel1.Controls.Add(this.panel19);
+            this.panel1.Controls.Add(this.panel17);
             this.panel1.Controls.Add(this.panel13);
             this.panel1.Controls.Add(this.panel11);
             this.panel1.Controls.Add(this.panel9);
             this.panel1.Controls.Add(this.panel7);
             this.panel1.Controls.Add(this.panel6);
             this.panel1.Controls.Add(this.panel2);
+            this.panel1.Controls.Add(this.panel15);
             this.panel1.Controls.Add(this.pnl_dbf);
             this.panel1.Location = new System.Drawing.Point(15, 14);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(398, 334);
+            this.panel1.Size = new System.Drawing.Size(398, 405);
             this.panel1.TabIndex = 14;
-            // 
-            // panel15
-            // 
-            this.panel15.Controls.Add(this.panel16);
-            this.panel15.Controls.Add(this.button8);
-            this.panel15.Location = new System.Drawing.Point(1, 282);
-            this.panel15.Name = "panel15";
-            this.panel15.Size = new System.Drawing.Size(381, 30);
-            this.panel15.TabIndex = 22;
-            this.panel15.Visible = false;
-            // 
-            // panel16
-            // 
-            this.panel16.BackColor = System.Drawing.Color.Orange;
-            this.panel16.Location = new System.Drawing.Point(1, 0);
-            this.panel16.Name = "panel16";
-            this.panel16.Size = new System.Drawing.Size(7, 30);
-            this.panel16.TabIndex = 15;
-            // 
-            // button8
-            // 
-            this.button8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(165)))), ((int)(((byte)(223)))));
-            this.button8.FlatAppearance.BorderSize = 0;
-            this.button8.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button8.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button8.ForeColor = System.Drawing.Color.Gainsboro;
-            this.button8.Location = new System.Drawing.Point(32, 0);
-            this.button8.Name = "button8";
-            this.button8.Size = new System.Drawing.Size(350, 30);
-            this.button8.TabIndex = 14;
-            this.button8.Text = "Generar reporte de asistencia mensual";
-            this.button8.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button8.UseVisualStyleBackColor = false;
-            this.button8.Click += new System.EventHandler(this.button8_Click);
             // 
             // panel13
             // 
             this.panel13.Controls.Add(this.panel14);
             this.panel13.Controls.Add(this.button7);
-            this.panel13.Location = new System.Drawing.Point(0, 246);
+            this.panel13.Location = new System.Drawing.Point(0, 283);
             this.panel13.Name = "panel13";
             this.panel13.Size = new System.Drawing.Size(381, 30);
             this.panel13.TabIndex = 21;
@@ -152,7 +128,7 @@
             // 
             this.panel11.Controls.Add(this.panel12);
             this.panel11.Controls.Add(this.button6);
-            this.panel11.Location = new System.Drawing.Point(0, 211);
+            this.panel11.Location = new System.Drawing.Point(0, 247);
             this.panel11.Name = "panel11";
             this.panel11.Size = new System.Drawing.Size(381, 30);
             this.panel11.TabIndex = 20;
@@ -186,7 +162,7 @@
             // 
             this.panel9.Controls.Add(this.panel10);
             this.panel9.Controls.Add(this.button5);
-            this.panel9.Location = new System.Drawing.Point(0, 175);
+            this.panel9.Location = new System.Drawing.Point(1, 211);
             this.panel9.Name = "panel9";
             this.panel9.Size = new System.Drawing.Size(381, 30);
             this.panel9.TabIndex = 21;
@@ -220,7 +196,7 @@
             // 
             this.panel7.Controls.Add(this.panel8);
             this.panel7.Controls.Add(this.button4);
-            this.panel7.Location = new System.Drawing.Point(2, 103);
+            this.panel7.Location = new System.Drawing.Point(1, 139);
             this.panel7.Name = "panel7";
             this.panel7.Size = new System.Drawing.Size(381, 30);
             this.panel7.TabIndex = 20;
@@ -253,7 +229,7 @@
             // 
             this.panel6.Controls.Add(this.panel5);
             this.panel6.Controls.Add(this.button3);
-            this.panel6.Location = new System.Drawing.Point(1, 139);
+            this.panel6.Location = new System.Drawing.Point(2, 175);
             this.panel6.Name = "panel6";
             this.panel6.Size = new System.Drawing.Size(381, 30);
             this.panel6.TabIndex = 19;
@@ -316,6 +292,39 @@
             this.panel3.Size = new System.Drawing.Size(7, 30);
             this.panel3.TabIndex = 15;
             // 
+            // panel15
+            // 
+            this.panel15.Controls.Add(this.panel16);
+            this.panel15.Controls.Add(this.button8);
+            this.panel15.Location = new System.Drawing.Point(1, 103);
+            this.panel15.Name = "panel15";
+            this.panel15.Size = new System.Drawing.Size(381, 30);
+            this.panel15.TabIndex = 22;
+            // 
+            // panel16
+            // 
+            this.panel16.BackColor = System.Drawing.Color.Orange;
+            this.panel16.Location = new System.Drawing.Point(1, 0);
+            this.panel16.Name = "panel16";
+            this.panel16.Size = new System.Drawing.Size(7, 30);
+            this.panel16.TabIndex = 15;
+            // 
+            // button8
+            // 
+            this.button8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(165)))), ((int)(((byte)(223)))));
+            this.button8.FlatAppearance.BorderSize = 0;
+            this.button8.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button8.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button8.ForeColor = System.Drawing.Color.Gainsboro;
+            this.button8.Location = new System.Drawing.Point(32, 0);
+            this.button8.Name = "button8";
+            this.button8.Size = new System.Drawing.Size(350, 30);
+            this.button8.TabIndex = 14;
+            this.button8.Text = "Generar reporte de asistencia mensual";
+            this.button8.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button8.UseVisualStyleBackColor = false;
+            this.button8.Click += new System.EventHandler(this.button8_Click);
+            // 
             // pnl_dbf
             // 
             this.pnl_dbf.Controls.Add(this.button1);
@@ -349,11 +358,79 @@
             this.panel4.Size = new System.Drawing.Size(7, 30);
             this.panel4.TabIndex = 15;
             // 
+            // panel17
+            // 
+            this.panel17.Controls.Add(this.panel18);
+            this.panel17.Controls.Add(this.button9);
+            this.panel17.Location = new System.Drawing.Point(1, 319);
+            this.panel17.Name = "panel17";
+            this.panel17.Size = new System.Drawing.Size(381, 30);
+            this.panel17.TabIndex = 23;
+            this.panel17.Visible = false;
+            // 
+            // panel18
+            // 
+            this.panel18.BackColor = System.Drawing.Color.RoyalBlue;
+            this.panel18.Location = new System.Drawing.Point(1, 0);
+            this.panel18.Name = "panel18";
+            this.panel18.Size = new System.Drawing.Size(7, 30);
+            this.panel18.TabIndex = 15;
+            // 
+            // button9
+            // 
+            this.button9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(165)))), ((int)(((byte)(223)))));
+            this.button9.FlatAppearance.BorderSize = 0;
+            this.button9.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button9.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button9.ForeColor = System.Drawing.Color.Gainsboro;
+            this.button9.Location = new System.Drawing.Point(32, 0);
+            this.button9.Name = "button9";
+            this.button9.Size = new System.Drawing.Size(350, 30);
+            this.button9.TabIndex = 14;
+            this.button9.Text = "Generar reporte P4";
+            this.button9.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button9.UseVisualStyleBackColor = false;
+            this.button9.Click += new System.EventHandler(this.button9_Click);
+            // 
+            // panel19
+            // 
+            this.panel19.Controls.Add(this.panel20);
+            this.panel19.Controls.Add(this.button10);
+            this.panel19.Location = new System.Drawing.Point(1, 355);
+            this.panel19.Name = "panel19";
+            this.panel19.Size = new System.Drawing.Size(381, 30);
+            this.panel19.TabIndex = 22;
+            this.panel19.Visible = false;
+            // 
+            // panel20
+            // 
+            this.panel20.BackColor = System.Drawing.Color.LimeGreen;
+            this.panel20.Location = new System.Drawing.Point(1, 0);
+            this.panel20.Name = "panel20";
+            this.panel20.Size = new System.Drawing.Size(7, 30);
+            this.panel20.TabIndex = 15;
+            // 
+            // button10
+            // 
+            this.button10.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(165)))), ((int)(((byte)(223)))));
+            this.button10.FlatAppearance.BorderSize = 0;
+            this.button10.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button10.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button10.ForeColor = System.Drawing.Color.Gainsboro;
+            this.button10.Location = new System.Drawing.Point(32, 0);
+            this.button10.Name = "button10";
+            this.button10.Size = new System.Drawing.Size(351, 30);
+            this.button10.TabIndex = 14;
+            this.button10.Text = "Generar reporte categorización trabajadores\r\n";
+            this.button10.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button10.UseVisualStyleBackColor = false;
+            this.button10.Click += new System.EventHandler(this.button10_Click);
+            // 
             // MenuAdministracionReports
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(425, 389);
+            this.ClientSize = new System.Drawing.Size(425, 466);
             this.Controls.Add(this.panel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
@@ -362,14 +439,16 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Mis reportes";
             this.panel1.ResumeLayout(false);
-            this.panel15.ResumeLayout(false);
             this.panel13.ResumeLayout(false);
             this.panel11.ResumeLayout(false);
             this.panel9.ResumeLayout(false);
             this.panel7.ResumeLayout(false);
             this.panel6.ResumeLayout(false);
             this.panel2.ResumeLayout(false);
+            this.panel15.ResumeLayout(false);
             this.pnl_dbf.ResumeLayout(false);
+            this.panel17.ResumeLayout(false);
+            this.panel19.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -401,5 +480,11 @@
         private System.Windows.Forms.Panel panel15;
         private System.Windows.Forms.Panel panel16;
         private System.Windows.Forms.Button button8;
+        private System.Windows.Forms.Panel panel19;
+        private System.Windows.Forms.Panel panel20;
+        private System.Windows.Forms.Button button10;
+        private System.Windows.Forms.Panel panel17;
+        private System.Windows.Forms.Panel panel18;
+        private System.Windows.Forms.Button button9;
     }
 }

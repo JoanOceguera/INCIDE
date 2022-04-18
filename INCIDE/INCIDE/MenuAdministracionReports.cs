@@ -19,11 +19,12 @@ namespace INCIDE
             this.icontrol = icontrol;
             if (icontrol.Logueado.Password.First().Role_nom != null && icontrol.Logueado.Password.First().Role_nom.codigo == (int)Rol.Administrador)
             {
-                this.panel15.Visible = true;
                 this.panel6.Visible = true;
                 this.panel9.Visible = true;
                 this.panel11.Visible = true;
                 this.panel13.Visible = true;
+                //this.panel17.Visible = true;
+                //this.panel19.Visible = true;
             }
         }
 
@@ -73,6 +74,18 @@ namespace INCIDE
         {
             AsistenciaMesForm asistencia = new AsistenciaMesForm(this.icontrol);
             asistencia.ShowDialog();
+        }
+
+        private void button9_Click(object sender, EventArgs e)
+        {
+            InformeP4Form informep4 = new InformeP4Form(this.icontrol);
+            informep4.ShowDialog();
+        }
+
+        private void button10_Click(object sender, EventArgs e)
+        {
+            PersonaCategorizacionForm personacategorizacion = new PersonaCategorizacionForm(this.icontrol);
+            personacategorizacion.ShowDialog();
         }
     }
 }

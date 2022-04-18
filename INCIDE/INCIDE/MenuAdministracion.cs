@@ -83,5 +83,11 @@ namespace INCIDE
             GestionarGrupoEvaluacion grupoEvaluacion = new GestionarGrupoEvaluacion(this.icontrol);
             grupoEvaluacion.ShowDialog();
         }
+
+        private void btnGenerarXmlUtilidades_Click(object sender, EventArgs e)
+        {
+            GenerarXmlUtilidades gxml = new GenerarXmlUtilidades(this.icontrol);
+            gxml.ShowDialog();
+        }
     }
 }

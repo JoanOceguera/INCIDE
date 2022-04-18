@@ -24,7 +24,7 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <ApplicationRevision>17</ApplicationRevision>
+    <ApplicationRevision>29</ApplicationRevision>
     <ApplicationVersion>1.1.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <CreateDesktopShortcut>true</CreateDesktopShortcut>
@@ -213,6 +213,12 @@
     <Compile Include="Generar dbf - Horas no laboradas.Designer.cs">
       <DependentUpon>Generar dbf - Horas no laboradas.cs</DependentUpon>
     </Compile>
+    <Compile Include="GenerarXmlUtilidades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GenerarXmlUtilidades.Designer.cs">
+      <DependentUpon>GenerarXmlUtilidades.cs</DependentUpon>
+    </Compile>
     <Compile Include="GenerarXml.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -268,6 +274,12 @@
     <Compile Include="IncidenciasPorExpediente.Designer.cs">
       <DependentUpon>IncidenciasPorExpediente.cs</DependentUpon>
     </Compile>
+    <Compile Include="InformeP4Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InformeP4Form.Designer.cs">
+      <DependentUpon>InformeP4Form.cs</DependentUpon>
+    </Compile>
     <Compile Include="Loggin.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -290,6 +302,12 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Model1.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="PersonaCategorizacionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PersonaCategorizacionForm.Designer.cs">
+      <DependentUpon>PersonaCategorizacionForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -357,6 +375,9 @@
     <EmbeddedResource Include="Generar dbf - Horas no laboradas.resx">
       <DependentUpon>Generar dbf - Horas no laboradas.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="GenerarXmlUtilidades.resx">
+      <DependentUpon>GenerarXmlUtilidades.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="GenerarXml.resx">
       <DependentUpon>GenerarXml.cs</DependentUpon>
     </EmbeddedResource>
@@ -384,6 +405,9 @@
     <EmbeddedResource Include="IncidenciasPorExpediente.resx">
       <DependentUpon>IncidenciasPorExpediente.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="InformeP4Form.resx">
+      <DependentUpon>InformeP4Form.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Loggin.resx">
       <DependentUpon>Loggin.cs</DependentUpon>
       <SubType>Designer</SubType>
@@ -393,6 +417,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="MenuAdministracionReports.resx">
       <DependentUpon>MenuAdministracionReports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PersonaCategorizacionForm.resx">
+      <DependentUpon>PersonaCategorizacionForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\licenses.licx" />
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -445,6 +472,12 @@
       <DependentUpon>Reference.svcmap</DependentUpon>
     </None>
     <None Include="Service References\ServiceReference1\INCIDE.ServiceReference1.Categorias.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\ServiceReference1\INCIDE.ServiceReference1.DatosInformeCategorizacion.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\ServiceReference1\INCIDE.ServiceReference1.DatosInformeP4.datasource">
       <DependentUpon>Reference.svcmap</DependentUpon>
     </None>
     <None Include="Service References\ServiceReference1\INCIDE.ServiceReference1.Personal.datasource">
